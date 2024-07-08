@@ -1,4 +1,4 @@
-nextflow run nf-core/fetchngs \
+nextflow run nf-core/rnaseq \
 	-profile docker,awsbatch \
 	-work-dir s3://genomic-nextflow/ \
 	--awsqueue genomic-nextflow-queue \
