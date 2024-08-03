@@ -1,1 +1,3 @@
-data/
+data/dataSojaAtlas
+data/config
+.nextflow
