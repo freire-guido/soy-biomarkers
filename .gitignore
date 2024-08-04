@@ -1,3 +1,4 @@
 data/dataSojaAtlas
 data/config
 .nextflow
+*~lock*
