@@ -1,5 +1,4 @@
-data/dataSojaAtlas
-data/config
+config
 .nextflow
 *~lock*
 __*__
