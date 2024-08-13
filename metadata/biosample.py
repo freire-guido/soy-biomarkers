@@ -5,7 +5,7 @@ def get_biosample(biosamp_id):
     res = requests.get(api_url)
     return res.text
 
-def metadata_json(metadata):
+def from_biosample(metadata):
     res = {}
     res['title'] = metadata.split('\n')[0].replace('1: ', '')
     identifiers = re.search(r'Identifiers: (.+)', metadata)
@@ -26,4 +26,4 @@ def metadata_json(metadata):
     if id_match:
         res['ID'] = id_match.group(1)
     
-    return json.dumps(res)
+    return res
