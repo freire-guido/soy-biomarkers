@@ -3,6 +3,8 @@ import json, re, requests
 def get_biosample(biosamp_id):
     api_url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=biosample&id={biosamp_id}&rettype=full&retmode=text"
     res = requests.get(api_url)
+    with open('out.csv', 'a') as f:
+        f.write(res.text)
     return res.text
 
 def from_biosample(metadata):
