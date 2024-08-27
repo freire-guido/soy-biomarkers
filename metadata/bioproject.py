@@ -8,7 +8,10 @@ def get_internal_id(accession):
 def get_pmid(doi):
     api_url = f"https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/?tool=tesis_guido_freire&email=example@outlook.com&ids={doi}"
     res = requests.get(api_url)
-    return re.search(r'pmid="(\d+)"', res.text).group(1)
+    pmid = re.search(r'pmid="(\d+)"', res.text)
+    if pmid:
+        return pmid.group(1)
+    return None
 
 def get_bioproject(bioproj_id):
     internal_id = get_internal_id(bioproj_id)
@@ -30,11 +33,14 @@ def from_bioproject(metadata):
     doi = re.search(r'<Publication[^>]*\sid="([^"]+)"', metadata)
     if doi:
         res['doi'] = doi.group(1)
-        
+
     return res
 
 def get_abstract(doi):
     pmid = get_pmid(doi)
     api_url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id={pmid}"
     res = requests.get(api_url)
-    return re.search(r'<AbstractText>(.*?)</AbstractText>', res.text).group(1)
+    abstract = re.search(r'<AbstractText>(.+)</AbstractText>', res.text)
+    if abstract:
+        return abstract.group(1)
+    return None
