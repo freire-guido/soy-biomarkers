@@ -1,4 +1,4 @@
-import json, re, requests
+import re, requests
 
 def get_biosample(biosamp_id):
     api_url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=biosample&id={biosamp_id}&rettype=full&retmode=text"
