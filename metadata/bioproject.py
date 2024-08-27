@@ -16,6 +16,23 @@ def get_bioproject(bioproj_id):
     res = requests.get(api_url)
     return res.text
 
+def from_bioproject(metadata):
+    res = {}
+    name = re.search(r"<Name>(.+)</Name>", metadata)
+    if name:
+        res['name'] = name.group(1)
+    title = re.search(r"<Title>(.+)</Title>", metadata)
+    if title:
+        res['title'] = title.group(1)
+    description = re.search(r"<Description>(.+)</Description>", metadata)
+    if description:
+        res['description'] = description.group(1)
+    doi = re.search(r'<Publication[^>]*\sid="([^"]+)"', metadata)
+    if doi:
+        res['doi'] = doi.group(1)
+        
+    return res
+
 def get_abstract(doi):
     pmid = get_pmid(doi)
     api_url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id={pmid}"
