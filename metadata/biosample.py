@@ -1,7 +1,17 @@
 import re, requests
 
+def get_internal_id(accession):
+    api_url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=biosample&term={accession}"
+    res = requests.get(api_url)
+    try:
+        res = re.search(r"<Id>(\d+)</Id>", res.text).group(1)
+        return res
+    except:
+        return accession
+
 def get_biosample(biosamp_id):
-    api_url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=biosample&id={biosamp_id}&rettype=full&retmode=text"
+    internal_id = get_internal_id(biosamp_id)
+    api_url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=biosample&id={internal_id}&rettype=full&retmode=text"
     res = requests.get(api_url)
     return res.text
 
