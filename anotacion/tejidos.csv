@@ -134,7 +134,7 @@ SAMN02799133,{},{},{},{},{},{},{},{},{},{},{'tissue': 'Soybean Early Maturation 
 SAMN26810703,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN21216021,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Whole Root', 'tissue': 'Whole Root'}",{},{},{},{},{},{}
 SAMN21359763,{},"{'tissue_sam_ss_dpl145': '1st trifoliolate leaflets', 'tissue': '1st trifoliolate leaflets'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549654,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549654,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN22841256,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'whole root', 'tissue': 'whole root'}",{},{},{},{},{},{}
 SAMN15648248,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN21359795,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
@@ -198,7 +198,7 @@ SAMN29911754,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem', 'tissue': 'stem'}"
 SAMN10721153,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Whole roots', 'tissue': 'Whole roots'}",{},{},{},{},{},{}
 SAMN09078200,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN13175302,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
-SAMD00161793,{},{},{},{},{},{'tissue_sam_ss_dpl145': 'main stem'},{},{},{'tissue': 'Cell cultures derived from root tissues'},{},{},{},{},{},{}
+SAMD00161793,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'main stem', 'tissue': 'main stem'}",{},{},{},{},{},{},{},{},{}
 SAMN32153635,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN21359779,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN19653800,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
@@ -334,6 +334,7 @@ SAMN21359861,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue':
 SAMN22612659,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN23131680,{},"{'tissue_sam_ss_dpl145': '1st trifoliolate leaflets', 'tissue': '1st trifoliolate leaflets'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN16483348,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA4395173,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN32153613,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN10476539,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN11849872,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Roots', 'tissue': 'Roots'}",{},{},{},{},{},{}
@@ -501,6 +502,7 @@ SAMN35682668,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN39205485,{},"{'tissue_sam_ss_dpl145': 'Leaf tissue from V4 stage', 'tissue': 'Leaf tissue from V4 stage'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09513402,{},{},{},"{'tissue_sam_ss_dpl145': 'inoculation site: ~2 cm below the crown', 'tissue': 'inoculation site: ~2 cm below the crown'}",{},{},{},{},{},{},{},{},{},{},{}
 SAMN05258400,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'embryonic axis', 'tissue': 'embryonic axis'}",{},{},{},{},{}
+SAMD00133788,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN23131646,{},"{'tissue_sam_ss_dpl145': '1st trifoliolate leaflets', 'tissue': '1st trifoliolate leaflets'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN12099684,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN14409618,"{'tissue_sam_ss_dpl145': 'leave', 'tissue': 'leave'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -651,6 +653,7 @@ SAMN36760694,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Embryo', 'tis
 SAMN11807737,"{'tissue_sam_ss_dpl145': 'first trifoliate leaves and apex', 'tissue': 'first trifoliate leaves and apex'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN08828778,{},{},"{'tissue_sam_ss_dpl145': 'Whole seedling', 'tissue': 'Whole seedling'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN19243692,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00117549,{},{'tissue': 'leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN33199881,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'roots', 'tissue': 'roots'}",{},{},{},{},{},{}
 SAMN19288399,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09240722,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'ROOT', 'tissue': 'ROOT'}",{},{},{},{},{},{}
@@ -787,7 +790,7 @@ SAMN33560456,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue':
 SAMN36718998,{},"{'tissue_sam_ss_dpl145': 'Soybean leaf', 'tissue': 'Soybean leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN31100636,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN34272523,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549665,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549665,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN39205533,{},"{'tissue_sam_ss_dpl145': 'Leaf tissue from V4 stage', 'tissue': 'Leaf tissue from V4 stage'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN11461637,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'pods', 'tissue': 'pods'}",{},{},{},{},{},{},{}
 SAMN29914726,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -920,7 +923,7 @@ SAMN12158003,{},{},"{'tissue_sam_ss_dpl145': 'Developping seeds', 'tissue': 'Dev
 SAMN26879703,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN16424906,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'NL-R1-root', 'tissue': 'NL-R1-root'}",{},{},{},{},{},{}
 SAMN19245833,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549666,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549666,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN35737265,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN28054341,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN02776952,{},{},"{'tissue_sam_ss_dpl145': 'seeds ranging 3.0-3.5mm in length', 'tissue': 'seeds ranging 3.0-3.5mm in length'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -939,9 +942,9 @@ SAMN32153815,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN15648438,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN41430324,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN18524023,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
-SAMD00549673,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549673,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN41725157,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00161794,{},{},{},{},{},{'tissue_sam_ss_dpl145': 'main stem'},{},{},{},{},{},{},{},{},{}
+SAMD00161794,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'main stem', 'tissue': 'main stem'}",{},{},{},{},{},{},{},{},{}
 SAMN30609203,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN07202272,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15455609,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -962,6 +965,7 @@ SAMN09721190,{},{},"{'tissue_sam_ss_dpl145': 'whole seed', 'tissue': 'whole seed
 SAMN20841303,{},{},{},{},"{'tissue_sam_ss_dpl145': 'shoot apices', 'tissue': 'shoot apices'}",{},{},{},{},{},{},{},{},{},{}
 SAMN04364222,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN06287521,{},{},"{'tissue_sam_ss_dpl145': 'seeds', 'tissue': 'seeds'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA104041786,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN16522722,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN39995229,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN27926290,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
@@ -1016,7 +1020,7 @@ SAMN24224858,{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'hypocotyl', 'tissue': 
 SAMN23254489,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem without infection', 'tissue': 'stem without infection'}",{},{},{},{},{},{},{},{},{}
 SAMN08606022,"{'tissue_sam_ss_dpl145': 'leaves Whole plant', 'tissue': 'leaves Whole plant'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716383,{},{},{},{},{'tissue': 'The whole shoot above cotelydon'},{},{},{},{},{},{},{},{},{},{}
-SAMD00549643,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549643,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN41726405,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN02799124,{},{},{},{},{},{},{},{},{'tissue': 'Soybean Early Maturation Axis Root Tip'},{},{},{},{},{},{}
 SAMN09716313,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
@@ -1043,6 +1047,7 @@ SAMN37387601,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{}
 SAMN09716259,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN02046335,{},{},{'tissue': 'Soybean Early Maturation Stage-Seed Coat Hilum'},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN40001468,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA5071879,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN32509941,{},"{'tissue_sam_ss_dpl145': 'Leaf at V1 stage', 'tissue': 'Leaf at V1 stage'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN41027810,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'pod', 'tissue': 'pod'}",{},{},{},{},{},{},{}
 SAMN34136139,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -1146,6 +1151,7 @@ SAMN40001353,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN16427391,{},{},{},{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'radicle', 'tissue': 'radicle'}",{},{}
 SAMN30806751,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem', 'tissue': 'stem'}",{},{},{},{},{},{},{},{},{}
 SAMN09716009,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
+SAMD00117546,{},{'tissue': 'leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN39995218,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN02225595,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'hypocotyl (stem)', 'tissue': 'hypocotyl (stem)'}","{'tissue_sam_ss_dpl145': 'hypocotyl (stem)', 'tissue': 'hypocotyl (stem)'}",{},{},{},{},{},{},{},{}
 SAMN33295269,{},{},"{'tissue_sam_ss_dpl145': 'seed development embryo R5.2 replicate 2', 'tissue': 'seed development embryo R5.2 replicate 2'}",{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'seed development embryo R5.2 replicate 2', 'tissue': 'seed development embryo R5.2 replicate 2'}",{},{},{},{},{}
@@ -1204,7 +1210,7 @@ SAMN08828777,{},{},"{'tissue_sam_ss_dpl145': 'Whole seedling', 'tissue': 'Whole 
 SAMN21359845,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN15648173,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32153859,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00161798,{},{},{},{},{},{'tissue_sam_ss_dpl145': 'main stem'},{},{},{},{},{},{},{},{},{}
+SAMD00161798,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'main stem', 'tissue': 'main stem'}",{},{},{},{},{},{},{},{},{}
 SAMN07202305,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN05908876,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN37926507,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
@@ -1246,6 +1252,7 @@ SAMN41725140,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN15648474,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37888484,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN15648280,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00216748,{},{},{},{},{},{'tissue': 'stem'},{},{},{},{},{},{},{},{},{}
 SAMN34136138,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN02776941,{},{},"{'tissue_sam_ss_dpl145': 'seeds ranging 3.0-3.5mm in length', 'tissue': 'seeds ranging 3.0-3.5mm in length'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN39309680,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -1296,7 +1303,7 @@ SAMN37004739,{},{},{},{},"{'tissue_sam_ss_dpl145': 'shoot', 'tissue': 'shoot'}",
 SAMN33359930,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem', 'tissue': 'stem'}",{},{},{},{},{},{},{},{},{}
 SAMN21359850,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN07202307,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00161797,{},{},{},{},{'tissue': 'Shoot'},{'tissue_sam_ss_dpl145': 'main stem'},{},{},{},{},{},{},{},{},{}
+SAMD00161797,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'main stem', 'tissue': 'main stem'}",{},{},{},{},{},{},{},{},{}
 SAMN09715690,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN37420853,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716212,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
@@ -1460,7 +1467,7 @@ SAMN32153923,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN23131675,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'whole root', 'tissue': 'whole root'}",{},{},{},{},{},{}
 SAMN19217949,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'ROOT4', 'tissue': 'ROOT4'}",{},{},{},{},{},{}
 SAMN21359745,{},"{'tissue_sam_ss_dpl145': '1st trifoliolate leaflets', 'tissue': '1st trifoliolate leaflets'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549658,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549658,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN19355598,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': '1 cm of the root tip', 'tissue': '1 cm of the root tip'}",{},{},{},{},{},{}
 SAMN09730125,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN03389613,{},{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Cotyledon', 'tissue': 'Cotyledon'}",{},{},{},{}
@@ -1542,7 +1549,7 @@ SAMN02799134,{},{},{},{},{},{},{},{},{},{},{'tissue': 'Soybean Early Maturation 
 SAMN02225607,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'hypocotyl (stem)', 'tissue': 'hypocotyl (stem)'}","{'tissue_sam_ss_dpl145': 'hypocotyl (stem)', 'tissue': 'hypocotyl (stem)'}",{},{},{},{},{},{},{},{}
 SAMN11849877,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Roots', 'tissue': 'Roots'}",{},{},{},{},{},{}
 SAMN30758612,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': ""['Whole Roots', 'root']"", 'tissue': 'root'}",{},{},{},{},{},{}
-SAMD00222772,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00222772,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN21359668,{},"{'tissue_sam_ss_dpl145': '1st trifoliolate leaflets', 'tissue': '1st trifoliolate leaflets'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN16086459,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'roots', 'tissue': 'roots'}",{},{},{},{},{},{}
 SAMN07202317,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -1597,6 +1604,7 @@ SAMN21216019,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Whole Root', 'ti
 SAMN09715911,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN40001432,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN36760701,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Embryo', 'tissue': 'Embryo'}",{},{},{},{},{}
+SAMD00216751,{},{},{},{},{},{'tissue': 'stem'},{},{},{},{},{},{},{},{},{}
 SAMN09716495,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN29993492,{},{},{},{},{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'ovule', 'tissue': 'ovule'}",{}
 SAMN26566116,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -1665,7 +1673,7 @@ SAMN30696820,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{
 SAMN20475805,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN21359879,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN09715853,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
-SAMD00549653,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549653,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN12868654,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Roots without infection', 'tissue': 'Roots without infection'}",{},{},{},{},{},{}
 SAMN30722366,{},"{'tissue_sam_ss_dpl145': 'Anther; Leaf samples', 'tissue': 'Anther; Leaf samples'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN29911696,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
@@ -1771,7 +1779,7 @@ SAMN07521019,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{}
 SAMN09078270,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716119,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN30828424,{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Hypocotyl', 'tissue': 'Hypocotyl'}",{},{},{},{},{},{},{},{}
-SAMD00549642,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549642,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32153640,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN21359807,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN09715897,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
@@ -1822,7 +1830,8 @@ SAMN23131669,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'whole root', 'ti
 SAMN11807755,"{'tissue_sam_ss_dpl145': 'first trifoliate leaves and apex', 'tissue': 'first trifoliate leaves and apex'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37387623,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15041202,{},"{'tissue_sam_ss_dpl145': 'unifoliate leaf', 'tissue': 'unifoliate leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
-SAMN37625508,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem apex', 'tissue': 'stem apex'}",{},{},{},{},{},{},{},{},{}
+SAMN37625508,{},{},{},{},{},{'tissue_sam_ss_dpl145': 'stem apex'},{},{},{},{},{},{},{},{},{}
+SAMEA104041778,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN05755958,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN21359740,{},"{'tissue_sam_ss_dpl145': '1st trifoliolate leaflets', 'tissue': '1st trifoliolate leaflets'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN38355140,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
@@ -1954,7 +1963,7 @@ SAMN09716283,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotely
 SAMN30758616,{},"{'tissue_sam_ss_dpl145': ""['leaf', '4th trifoliate']"", 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN08463881,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN09715787,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
-SAMD00549670,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549670,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN33560452,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN37703837,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15142312,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -1974,6 +1983,7 @@ SAMN10721148,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Whole roots', 't
 SAMN08461573,{},{},{},{},"{'tissue_sam_ss_dpl145': 'shoot apical meristem', 'tissue': 'shoot apical meristem'}","{'tissue_sam_ss_dpl145': 'shoot apical meristem', 'tissue': 'shoot apical meristem'}",{},{},{},{},{},{},{},{},{}
 SAMN36760704,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Embryo', 'tissue': 'Embryo'}",{},{},{},{},{}
 SAMN05755944,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA4395178,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN15648236,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32509951,{},"{'tissue_sam_ss_dpl145': 'Leaf at V1 stage', 'tissue': 'Leaf at V1 stage'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN16295001,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
@@ -2030,6 +2040,7 @@ SAMN37888460,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue':
 SAMN21359708,{},"{'tissue_sam_ss_dpl145': '1st trifoliolate leaflets', 'tissue': '1st trifoliolate leaflets'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN39205321,{},"{'tissue_sam_ss_dpl145': 'Leaf tissue from V4 stage', 'tissue': 'Leaf tissue from V4 stage'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09715727,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
+SAMEA5071877,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN15648266,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN12868626,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Roots without infection', 'tissue': 'Roots without infection'}",{},{},{},{},{},{}
 SAMN05327851,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -2066,7 +2077,7 @@ SAMN32153582,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN13107052,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN36630294,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN40001387,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549675,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549675,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN19654002,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN32153778,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09715859,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
@@ -2096,6 +2107,7 @@ SAMN09716055,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotely
 SAMN19021070,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'roots from soybean', 'tissue': 'roots from soybean'}",{},{},{},{},{},{}
 SAMN21359700,{},"{'tissue_sam_ss_dpl145': '1st trifoliolate leaflets', 'tissue': '1st trifoliolate leaflets'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN36894352,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA104041787,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN30722371,{},"{'tissue_sam_ss_dpl145': 'Anther; Leaf samples', 'tissue': 'Anther; Leaf samples'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN30609207,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN30192809,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
@@ -2104,7 +2116,7 @@ SAMN29341246,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{
 SAMN19288386,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN05580228,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN29911712,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
-SAMD00161799,{},{},{},{},{},{'tissue_sam_ss_dpl145': 'main stem'},{},{},{},{},{},{},{},{},{}
+SAMD00161799,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'main stem', 'tissue': 'main stem'}",{},{},{},{},{},{},{},{},{}
 SAMN22841274,{},"{'tissue_sam_ss_dpl145': '1st trifoliolate leaflets', 'tissue': '1st trifoliolate leaflets'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648059,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648161,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -2403,6 +2415,7 @@ SAMN09690615,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'pod', 'tissue': 'po
 SAMN37384300,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09489364,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN33295275,{},{},"{'tissue_sam_ss_dpl145': 'seed development embryo R6.0 replicate 2', 'tissue': 'seed development embryo R6.0 replicate 2'}",{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'seed development embryo R6.0 replicate 2', 'tissue': 'seed development embryo R6.0 replicate 2'}",{},{},{},{},{}
+SAMEA4395181,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN18929629,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN32153585,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648229,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -2433,6 +2446,7 @@ SAMN09715656,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotely
 SAMN28898362,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN11371512,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN05937026,{},{},"{'tissue_sam_ss_dpl145': 'immature seed coat', 'tissue': 'immature seed coat'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA5071873,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN40001427,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN12868651,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Roots without infection', 'tissue': 'Roots without infection'}",{},{},{},{},{},{}
 SAMN07202298,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -2479,6 +2493,7 @@ SAMN39682043,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue':
 SAMN32153591,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN34272526,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716392,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
+SAMD00216752,{},{},{},{},{},{'tissue': 'stem'},{},{},{},{},{},{},{},{},{}
 SAMN02046336,{},{},{'tissue': 'Soybean Early Maturation Seed Coat Hilum'},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN27511871,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem segments', 'tissue': 'stem segments'}",{},{},{},{},{},{},{},{},{}
 SAMN39637164,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
@@ -2663,6 +2678,7 @@ SAMN09716240,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotely
 SAMN32989754,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Roots', 'tissue': 'Roots'}",{},{},{},{},{},{}
 SAMN23131659,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'whole root', 'tissue': 'whole root'}",{},{},{},{},{},{}
 SAMN09715862,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
+SAMEA112156554,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN14360509,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN23967294,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN19654019,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
@@ -2681,6 +2697,7 @@ SAMN17612236,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{}
 SAMN14409613,"{'tissue_sam_ss_dpl145': 'leave', 'tissue': 'leave'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN12989340,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37224545,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00133784,{},{'tissue': 'leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN21465497,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root11', 'tissue': 'root11'}",{},{},{},{},{},{}
 SAMN32153552,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN30215959,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -2699,7 +2716,7 @@ SAMN15648473,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN17349250,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root tips', 'tissue': 'root tips'}",{},{},{},{},{},{}
 SAMN21014840,{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'hypocotyl', 'tissue': 'hypocotyl'}",{},{},{},{},{},{},{},{}
 SAMN29220788,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549671,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549671,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN29993475,{},{},{},{},{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'ovule', 'tissue': 'ovule'}",{}
 SAMN18795866,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN24108389,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -2754,7 +2771,7 @@ SAMN25263520,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Pod', 'tissue': 'Po
 SAMN08463879,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN15731801,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN04349718,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
-SAMD00161792,{},{},{},{},{},{'tissue_sam_ss_dpl145': 'main stem'},{},{},{},{},{},{},{},{},{}
+SAMD00161792,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'main stem', 'tissue': 'main stem'}",{},{},{},{},{},{},{},{},{}
 SAMN29341244,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN25263528,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Pod', 'tissue': 'Pod'}",{},{},{},{},{},{},{}
 SAMN18929612,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -2807,7 +2824,7 @@ SAMN12099664,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue':
 SAMN32153752,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN41829190,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Stem', 'tissue': 'Stem'}",{},{},{},{},{},{},{},{},{}
 SAMN21359683,{},"{'tissue_sam_ss_dpl145': '1st trifoliolate leaflets', 'tissue': '1st trifoliolate leaflets'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00222775,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00222775,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN39205417,{},"{'tissue_sam_ss_dpl145': 'Leaf tissue from V4 stage', 'tissue': 'Leaf tissue from V4 stage'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648449,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716354,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
@@ -3130,6 +3147,7 @@ SAMN29993498,{},{},{},{},{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'o
 SAMN23019675,{},"{'tissue_sam_ss_dpl145': 'Leaf tissue', 'tissue': 'Leaf tissue'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN02799150,{},{},{'tissue': 'Soybean Early Maturation Seed Coat Parenchyma'},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09513363,{},{},{},"{'tissue_sam_ss_dpl145': 'inoculation site: ~2 cm below the crown', 'tissue': 'inoculation site: ~2 cm below the crown'}",{},{},{},{},{},{},{},{},{},{},{}
+SAMD00133787,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN15835458,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN40273815,{},{},"{'tissue_sam_ss_dpl145': 'Seeds', 'tissue': 'Seeds'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648137,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -3150,7 +3168,7 @@ SAMN26884124,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{}
 SAMN12040117,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN09716047,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN21359791,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
-SAMD00549652,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549652,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32153834,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37888500,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN29911726,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem', 'tissue': 'stem'}",{},{},{},{},{},{},{},{},{}
@@ -3162,6 +3180,7 @@ SAMN09716074,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotely
 SAMN33295266,{},{},"{'tissue_sam_ss_dpl145': 'seed development embryo R5.1 replicate 1', 'tissue': 'seed development embryo R5.1 replicate 1'}",{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'seed development embryo R5.1 replicate 1', 'tissue': 'seed development embryo R5.1 replicate 1'}",{},{},{},{},{}
 SAMN38032661,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN39848648,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
+SAMD00117551,{},{'tissue': 'leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN11340100,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN08461543,{},{},{},{},"{'tissue_sam_ss_dpl145': 'shoot apical meristem', 'tissue': 'shoot apical meristem'}","{'tissue_sam_ss_dpl145': 'shoot apical meristem', 'tissue': 'shoot apical meristem'}",{},{},{},{},{},{},{},{},{}
 SAMN03473673,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -3252,11 +3271,11 @@ SAMN02047242,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'embryo', 'tis
 SAMN39205435,{},"{'tissue_sam_ss_dpl145': 'Leaf tissue from V4 stage', 'tissue': 'Leaf tissue from V4 stage'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN17205614,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN33295251,{},{},"{'tissue_sam_ss_dpl145': 'seed development embryo R5.4 replicate 2', 'tissue': 'seed development embryo R5.4 replicate 2'}",{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'seed development embryo R5.4 replicate 2', 'tissue': 'seed development embryo R5.4 replicate 2'}",{},{},{},{},{}
-SAMD00549646,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549646,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32989761,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Roots', 'tissue': 'Roots'}",{},{},{},{},{},{}
 SAMN09295122,{},{},"{'tissue_sam_ss_dpl145': 'seedling: cotyledon and root', 'tissue': 'seedling: cotyledon and root'}",{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'seedling: cotyledon and root', 'tissue': 'seedling: cotyledon and root'}",{},"{'tissue_sam_ss_dpl145': 'seedling: cotyledon and root', 'tissue': 'seedling: cotyledon and root'}",{},{},{},{}
 SAMN41829197,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Stem', 'tissue': 'Stem'}",{},{},{},{},{},{},{},{},{}
-SAMD00549663,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549663,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN32153639,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN02870691,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN32153680,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -3428,7 +3447,7 @@ SAMN38636112,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{
 SAMN05970464,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN29470504,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN41829206,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Stem', 'tissue': 'Stem'}",{},{},{},{},{},{},{},{},{}
-SAMD00161795,{},{},{},{},{},{'tissue_sam_ss_dpl145': 'main stem'},{},{},{},{},{},{},{},{},{}
+SAMD00161795,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'main stem', 'tissue': 'main stem'}",{},{},{},{},{},{},{},{},{}
 SAMN19322179,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN16238405,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Roots', 'tissue': 'Roots'}",{},{},{},{},{},{}
 SAMN39205483,{},"{'tissue_sam_ss_dpl145': 'Leaf tissue from V4 stage', 'tissue': 'Leaf tissue from V4 stage'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -3498,6 +3517,7 @@ SAMN06434853,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'roots', 'tissue'
 SAMN19243741,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN36011945,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN24224861,{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'hypocotyl', 'tissue': 'hypocotyl'}",{},{},{},{},{},{},{},{}
+SAMD00117543,{},{'tissue': 'leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN36720913,{},{},"{'tissue_sam_ss_dpl145': 'seeds', 'tissue': 'seeds'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN17311459,{},{},{},{},"{'tissue_sam_ss_dpl145': 'shoot apex', 'tissue': 'shoot apex'}",{},{},{},{},{},{},{},{},{},{}
 SAMN15041794,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'axillary meristem', 'tissue': 'axillary meristem'}",{},{},{},{},{},{},{},{},{}
@@ -3596,6 +3616,7 @@ SAMN05076343,{},"{'tissue_sam_ss_dpl145': 'unifoliate leaf', 'tissue': 'unifolia
 SAMN33463382,"{'tissue_sam_ss_dpl145': 'Leaves (first trifoliate stage)', 'tissue': 'Leaves (first trifoliate stage)'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37703853,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN41726380,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA5071881,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN35682663,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN38212225,{},{},"{'tissue_sam_ss_dpl145': 'Dry seed', 'tissue': 'Dry seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN31632526,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -3656,7 +3677,7 @@ SAMN09716573,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotely
 SAMN32153427,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN10782709,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648522,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549674,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549674,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN30003063,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'roots', 'tissue': 'roots'}",{},{},{},{},{},{}
 SAMN39205323,{},"{'tissue_sam_ss_dpl145': 'Leaf tissue from V4 stage', 'tissue': 'Leaf tissue from V4 stage'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN30470208,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -3693,7 +3714,7 @@ SAMN11536774,{},{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Immature c
 SAMN40643036,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root26', 'tissue': 'root26'}",{},{},{},{},{},{}
 SAMN26566106,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37004727,{},{},{},{},"{'tissue_sam_ss_dpl145': 'shoot', 'tissue': 'shoot'}",{},{},{},{},{},{},{},{},{},{}
-SAMD00549651,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549651,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37888467,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN05223308,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09513351,{},{},{},"{'tissue_sam_ss_dpl145': 'inoculation site: ~2 cm below the crown', 'tissue': 'inoculation site: ~2 cm below the crown'}",{},{},{},{},{},{},{},{},{},{},{}
@@ -3736,6 +3757,7 @@ SAMN29470526,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue':
 SAMN11836278,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'hairy root', 'tissue': 'hairy root'}",{},{},{},{},{},{}
 SAMN32153652,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN22841284,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'whole root', 'tissue': 'whole root'}",{},{},{},{},{},{}
+SAMD00117550,{},{'tissue': 'leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32064350,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN12099673,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN15041182,{},"{'tissue_sam_ss_dpl145': 'unifoliate leaf', 'tissue': 'unifoliate leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -3790,7 +3812,9 @@ SAMN08903391,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'embryonic axi
 SAMN40001359,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN17521697,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32153915,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00117548,{},{'tissue': 'leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN06158144,"{'tissue_sam_ss_dpl145': 'trifoliate leaves', 'tissue': 'trifoliate leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA4395177,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN02324200,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN15648238,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716134,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
@@ -3801,7 +3825,8 @@ SAMN18614013,{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'hypocotyl', 'tissue': 
 SAMN22841260,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'whole root', 'tissue': 'whole root'}",{},{},{},{},{},{}
 SAMN24108388,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN02776935,{},{},"{'tissue_sam_ss_dpl145': 'seeds ranging 3.0-3.5mm in length', 'tissue': 'seeds ranging 3.0-3.5mm in length'}",{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549669,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549669,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
+SAMD00216750,{},{},{},{},{},{'tissue': 'stem'},{},{},{},{},{},{},{},{},{}
 SAMN33359916,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem', 'tissue': 'stem'}",{},{},{},{},{},{},{},{},{}
 SAMN09716551,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN19243734,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -3866,11 +3891,12 @@ SAMN40643029,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root19', 'tissue
 SAMN18877656,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN19217952,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'ROOT7', 'tissue': 'ROOT7'}",{},{},{},{},{},{}
 SAMN09716414,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
-SAMD00549668,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549668,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN16238412,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Roots', 'tissue': 'Roots'}",{},{},{},{},{},{}
 SAMN29914739,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN24299053,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09715615,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
+SAMEA104041776,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN15648289,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN40001322,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32153549,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -3971,7 +3997,7 @@ SAMN33988717,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{}
 SAMN02640349,{},{},"{'tissue_sam_ss_dpl145': 'Seed coat (100-200mg seed weight stage)', 'tissue': 'Seed coat (100-200mg seed weight stage)'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648223,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN33463377,"{'tissue_sam_ss_dpl145': 'Leaves (first trifoliate stage)', 'tissue': 'Leaves (first trifoliate stage)'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00161796,{},{},{},{},{},{'tissue_sam_ss_dpl145': 'main stem'},{},{},{},{},{},{},{},{},{}
+SAMD00161796,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'main stem', 'tissue': 'main stem'}",{},{},{},{},{},{},{},{},{}
 SAMN09716423,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN17141044,{},{},{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'petioles', 'tissue': 'petioles'}",{},{},{}
 SAMN32064365,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
@@ -4005,7 +4031,7 @@ SAMN09078207,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{}
 SAMN21359704,{},"{'tissue_sam_ss_dpl145': '1st trifoliolate leaflets', 'tissue': '1st trifoliolate leaflets'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN38212215,{},{},"{'tissue_sam_ss_dpl145': 'Dry seed', 'tissue': 'Dry seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37004740,{},{},{},{},"{'tissue_sam_ss_dpl145': 'shoot', 'tissue': 'shoot'}",{},{},{},{},{},{},{},{},{},{}
-SAMD00549664,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549664,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN02225593,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'hypocotyl (stem)', 'tissue': 'hypocotyl (stem)'}","{'tissue_sam_ss_dpl145': 'hypocotyl (stem)', 'tissue': 'hypocotyl (stem)'}",{},{},{},{},{},{},{},{}
 SAMN25263492,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Pod', 'tissue': 'Pod'}",{},{},{},{},{},{},{}
 SAMN09513494,{},{},{},"{'tissue_sam_ss_dpl145': 'inoculation site: ~2 cm below the crown', 'tissue': 'inoculation site: ~2 cm below the crown'}",{},{},{},{},{},{},{},{},{},{},{}
@@ -4023,11 +4049,12 @@ SAMN19217947,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'ROOT2', 'tissue'
 SAMN09513407,{},{},{},"{'tissue_sam_ss_dpl145': 'inoculation site: ~2 cm below the crown', 'tissue': 'inoculation site: ~2 cm below the crown'}",{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716430,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN09715686,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
-SAMEA5071880,{},{'tissue': 'flag leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA5071880,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN30003067,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'roots', 'tissue': 'roots'}",{},{},{},{},{},{}
 SAMN07188002,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'embryo', 'tissue': 'embryo'}",{},{},{},{},{}
 SAMN29914708,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN18559416,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00216753,{},{},{},{},{},{'tissue': 'stem'},{},{},{},{},{},{},{},{},{}
 SAMN22841271,{},"{'tissue_sam_ss_dpl145': '1st trifoliolate leaflets', 'tissue': '1st trifoliolate leaflets'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN41725162,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN38355138,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
@@ -4060,6 +4087,7 @@ SAMN36760690,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Embryo', 'tis
 SAMN13104244,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN31831517,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN07188083,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'embryo', 'tissue': 'embryo'}",{},{},{},{},{}
+SAMEA104041783,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN29914744,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN29914700,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09078278,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -4165,6 +4193,8 @@ SAMN09716181,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotely
 SAMN20165277,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem', 'tissue': 'stem'}",{},{},{},{},{},{},{},{},{}
 SAMN10740396,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN05937025,{},{},"{'tissue_sam_ss_dpl145': 'immature seed coat', 'tissue': 'immature seed coat'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00216754,{},{},{},{},{},{'tissue': 'stem'},{},{},{},{},{},{},{},{},{}
+SAMEA4395182,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN19271365,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN04563594,{},{},"{'tissue_sam_ss_dpl145': 'developing seed', 'tissue': 'developing seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN31831516,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -4254,7 +4284,7 @@ SAMN03755626,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{
 SAMN39309667,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN18736584,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN04811513,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
-SAMD00549647,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549647,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN21359785,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN37961002,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN33295245,{},{},"{'tissue_sam_ss_dpl145': 'seed development embryo R5.1 replicate 2', 'tissue': 'seed development embryo R5.1 replicate 2'}",{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'seed development embryo R5.1 replicate 2', 'tissue': 'seed development embryo R5.1 replicate 2'}",{},{},{},{},{}
@@ -4286,7 +4316,7 @@ SAMN24974159,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{
 SAMN29911756,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem', 'tissue': 'stem'}",{},{},{},{},{},{},{},{},{}
 SAMN14409616,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN32016126,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'CK3 hairy root', 'tissue': 'CK3 hairy root'}",{},{},{},{},{},{}
-SAMD00549659,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549659,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN15648354,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN00765475,{},{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Cotyledon', 'tissue': 'Cotyledon'}",{},{},{},{}
 SAMN39848651,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
@@ -4460,7 +4490,7 @@ SAMN11536758,{},{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Immature c
 SAMN14360504,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN18736600,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648056,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549639,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549639,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN36630250,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN41726384,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN12040120,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Stem', 'tissue': 'Stem'}",{},{},{},{},{},{},{},{},{}
@@ -4587,6 +4617,7 @@ SAMN02640348,{},{},"{'tissue_sam_ss_dpl145': 'Seed coat (100-200mg seed weight s
 SAMN30758610,{},"{'tissue_sam_ss_dpl145': ""['leaf', '4th trifoliate']"", 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN38024268,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN02046344,{},{},{'tissue': 'Soybean Early Maturation-Seed Coat Parenchyma'},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA5071871,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN13746645,{},{},{},{},{},{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'style and ovary', 'tissue': 'style and ovary'}"
 SAMN09716379,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN05223298,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -4779,7 +4810,7 @@ SAMN03083694,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{}
 SAMN12099656,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN40001457,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37961006,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
-SAMD00549656,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549656,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716527,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN29470536,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN08903398,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'embryonic axis', 'tissue': 'embryonic axis'}",{},{},{},{},{}
@@ -4844,6 +4875,7 @@ SAMN08828780,{},{},"{'tissue_sam_ss_dpl145': 'Whole seedling', 'tissue': 'Whole 
 SAMN03014476,{},{},{},{},"{'tissue_sam_ss_dpl145': 'shoot', 'tissue': 'shoot'}",{},{},{},{},{},{},{},{},{},{}
 SAMN09715671,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN09513394,{},{},{},"{'tissue_sam_ss_dpl145': 'inoculation site: ~2 cm below the crown', 'tissue': 'inoculation site: ~2 cm below the crown'}",{},{},{},{},{},{},{},{},{},{},{}
+SAMEA112156556,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN26156428,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN19271376,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN29470520,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
@@ -4892,7 +4924,7 @@ SAMN30192819,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue':
 SAMN19288384,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15142310,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN03299425,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549644,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549644,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN29993478,{},{},{},{},{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'ovule', 'tissue': 'ovule'}",{}
 SAMN38636107,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN39309689,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -4922,6 +4954,7 @@ SAMN00765474,{},{},"{'tissue_sam_ss_dpl145': 'Seed Coat', 'tissue': 'Seed Coat'}
 SAMN29911766,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem', 'tissue': 'stem'}",{},{},{},{},{},{},{},{},{}
 SAMN09716016,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN19588562,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'young pod', 'tissue': 'young pod'}",{},{},{},{},{},{},{}
+SAMD00133786,{},{},{},{},{},{'tissue': 'stem'},{},{},{},{},{},{},{},{},{}
 SAMN15648185,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN24505282,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN14752281,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -4966,6 +4999,7 @@ SAMN20967643,"{'tissue_sam_ss_dpl145': 'LEAVES', 'tissue': 'LEAVES'}",{},{},{},{
 SAMN19245837,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN02688413,{},{},{},{},"{'tissue_sam_ss_dpl145': 'shoot apical meristem', 'tissue': 'shoot apical meristem'}","{'tissue_sam_ss_dpl145': 'shoot apical meristem', 'tissue': 'shoot apical meristem'}",{},{},{},{},{},{},{},{},{}
 SAMN09716576,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
+SAMEA4395183,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN35682665,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN08707413,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'the whole root ', 'tissue': 'the whole root '}",{},{},{},{},{},{}
 SAMN19271404,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -5187,6 +5221,7 @@ SAMN32153570,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN40001472,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32989764,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Roots', 'tissue': 'Roots'}",{},{},{},{},{},{}
 SAMN18929621,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
+SAMEA4395172,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN40550411,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN08903389,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'embryonic axis', 'tissue': 'embryonic axis'}",{},{},{},{},{}
 SAMN37223631,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
@@ -5195,11 +5230,13 @@ SAMN36011949,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN33295277,{},{},"{'tissue_sam_ss_dpl145': 'seedling cotyledon', 'tissue': 'seedling cotyledon'}",{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'seedling cotyledon', 'tissue': 'seedling cotyledon'}",{},{},{},{}
 SAMN15097866,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN21359751,{},"{'tissue_sam_ss_dpl145': '1st trifoliolate leaflets', 'tissue': '1st trifoliolate leaflets'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA4395180,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN37224540,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN26344685,{},{},{},"{'tissue_sam_ss_dpl145': 'root crown', 'tissue': 'root crown'}",{},{},{},{},"{'tissue_sam_ss_dpl145': 'root crown', 'tissue': 'root crown'}",{},{},{},{},{},{}
 SAMN30310294,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Pod_3', 'tissue': 'Pod_3'}",{},{},{},{},{},{},{}
 SAMN41829218,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Stem', 'tissue': 'Stem'}",{},{},{},{},{},{},{},{},{}
 SAMN12868649,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Roots without infection', 'tissue': 'Roots without infection'}",{},{},{},{},{},{}
+SAMD00117545,{},{'tissue': 'leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32989753,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Roots', 'tissue': 'Roots'}",{},{},{},{},{},{}
 SAMN08287175,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem', 'tissue': 'stem'}",{},{},{},{},{},{},{},{},{}
 SAMN10581530,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'roots', 'tissue': 'roots'}",{},{},{},{},{},{}
@@ -5232,6 +5269,7 @@ SAMN41430309,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN40001355,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN19322175,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN29914741,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA112156551,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN35130928,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN29914724,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09715709,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
@@ -5416,7 +5454,7 @@ SAMN03389599,{},{},"{'tissue_sam_ss_dpl145': 'Seed Coat', 'tissue': 'Seed Coat'}
 SAMN25601481,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37384290,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN19245822,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549641,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549641,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32153436,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32153794,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN18929617,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
@@ -5445,6 +5483,7 @@ SAMN09715747,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotely
 SAMN32153484,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN19322177,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN38636134,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00133785,{},{},{},{},{},{'tissue': 'stem'},{},{},{},{},{},{},{},{},{}
 SAMN32153732,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN02776940,{},{},"{'tissue_sam_ss_dpl145': 'seeds ranging 3.0-3.5mm in length', 'tissue': 'seeds ranging 3.0-3.5mm in length'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN30310293,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Pod_2', 'tissue': 'Pod_2'}",{},{},{},{},{},{},{}
@@ -5456,6 +5495,7 @@ SAMN32153481,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN09078266,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN38636125,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09513466,{},{},{},"{'tissue_sam_ss_dpl145': 'inoculation site: ~2 cm below the crown', 'tissue': 'inoculation site: ~2 cm below the crown'}",{},{},{},{},{},{},{},{},{},{},{}
+SAMD00117541,{},{'tissue': 'leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09715829,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN09716295,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN32153445,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -5483,6 +5523,7 @@ SAMN40001412,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN35682657,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648060,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648358,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00216749,{},{},{},{},{},{'tissue': 'stem'},{},{},{},{},{},{},{},{},{}
 SAMN41725186,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32153434,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32153877,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -5555,7 +5596,7 @@ SAMN34240556,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{
 SAMN12158010,{},{},"{'tissue_sam_ss_dpl145': 'Developping seeds', 'tissue': 'Developping seeds'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN19271389,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN24224868,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
-SAMD00549640,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549640,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN36630262,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN00265076,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'embryo proper', 'tissue': 'embryo proper'}",{},{},{},{},{}
 SAMN09513335,{},{},{},"{'tissue_sam_ss_dpl145': 'inoculation site: ~2 cm below the crown', 'tissue': 'inoculation site: ~2 cm below the crown'}",{},{},{},{},{},{},{},{},{},{},{}
@@ -5603,7 +5644,7 @@ SAMN36760718,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Embryo', 'tis
 SAMN09716112,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN15648218,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN35130929,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
-SAMD00222779,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00222779,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN38636114,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09715639,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN11476345,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
@@ -5814,7 +5855,7 @@ SAMN39205423,{},"{'tissue_sam_ss_dpl145': 'Leaf tissue from V4 stage', 'tissue':
 SAMN19021064,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'roots from soybean', 'tissue': 'roots from soybean'}",{},{},{},{},{},{}
 SAMN32153590,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716086,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
-SAMD00222776,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00222776,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN09716497,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN32153936,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN33359918,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem', 'tissue': 'stem'}",{},{},{},{},{},{},{},{},{}
@@ -5843,7 +5884,7 @@ SAMN00769644,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stems', 'tissue': 'stems'
 SAMN09716224,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN18825608,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32153827,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00222773,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00222773,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN07202315,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN36894344,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN36894360,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -5866,6 +5907,7 @@ SAMN40615251,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue':
 SAMN39205599,{},"{'tissue_sam_ss_dpl145': 'Leaf tissue from V4 stage', 'tissue': 'Leaf tissue from V4 stage'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN19355599,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': '1 cm of the root tip', 'tissue': '1 cm of the root tip'}",{},{},{},{},{},{}
 SAMN37888462,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
+SAMEA104041784,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN32153821,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN12158004,{},{},"{'tissue_sam_ss_dpl145': 'Developping seeds', 'tissue': 'Developping seeds'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN14918701,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -5942,7 +5984,7 @@ SAMN39205501,{},"{'tissue_sam_ss_dpl145': 'Leaf tissue from V4 stage', 'tissue':
 SAMN33845189,{},{},{},{},"{'tissue_sam_ss_dpl145': 'Shoot', 'tissue': 'Shoot'}",{},{},{},{},{},{},{},{},{},{}
 SAMN24505281,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN09716164,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
-SAMN38636146,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMN38636146,{'tissue_sam_ss_dpl145': 'leaves'},{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32153660,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37387630,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN29470438,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
@@ -6046,6 +6088,7 @@ SAMN16932272,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{}
 SAMN31100628,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN22371162,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37703821,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA104041781,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN26492857,{},{},"{'tissue_sam_ss_dpl145': 'Soybean seedling', 'tissue': 'Soybean seedling'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37223633,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN41725155,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -6126,7 +6169,7 @@ SAMN09715977,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotely
 SAMN09716022,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN38212222,{},{},"{'tissue_sam_ss_dpl145': 'Dry seed', 'tissue': 'Dry seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716369,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
-SAMN32153718,{},{},{'tissue_sam_ss_dpl145': 'seed'},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMN32153718,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN39615965,{},{},"{'tissue_sam_ss_dpl145': 'seed coat', 'tissue': 'seed coat'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN22841334,{},"{'tissue_sam_ss_dpl145': '1st trifoliolate leaflets', 'tissue': '1st trifoliolate leaflets'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN31100640,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
@@ -6224,6 +6267,7 @@ SAMN40001410,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN25827182,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root nodules', 'tissue': 'root nodules'}",{},{},{},{},{},{}
 SAMN09730121,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37888455,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
+SAMEA4395179,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN18877658,{},{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'cotyledon', 'tissue': 'cotyledon'}",{},{},{},{}
 SAMN41725135,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32016129,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'KRP3 hairy root', 'tissue': 'KRP3 hairy root'}",{},{},{},{},{},{}
@@ -6328,9 +6372,10 @@ SAMN36379309,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root tip', 'tiss
 SAMN15648117,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN39848636,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN30192806,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
-SAMD00549645,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549645,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN03784697,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716521,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
+SAMEA5071870,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN41725147,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN24974160,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN07637877,"{'tissue_sam_ss_dpl145': 'roots and leaves', 'tissue': 'roots and leaves'}",{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'roots and leaves', 'tissue': 'roots and leaves'}",{},{},{},{},{},{}
@@ -6364,6 +6409,7 @@ SAMN28196684,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root tip', 'tiss
 SAMN09715949,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN09078198,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN41829216,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Stem', 'tissue': 'Stem'}",{},{},{},{},{},{},{},{},{}
+SAMD00117544,{},{'tissue': 'leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN11807745,"{'tissue_sam_ss_dpl145': 'first trifoliate leaves and apex', 'tissue': 'first trifoliate leaves and apex'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN16826274,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'young pods', 'tissue': 'young pods'}",{},{},{},{},{},{},{}
 SAMN09078180,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -6409,6 +6455,7 @@ SAMN35718258,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{
 SAMN32153412,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648366,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09513385,{},{},{},"{'tissue_sam_ss_dpl145': 'inoculation site: ~2 cm below the crown', 'tissue': 'inoculation site: ~2 cm below the crown'}",{},{},{},{},{},{},{},{},{},{},{}
+SAMEA112156552,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN34062145,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': '2 cm root sections with roottip', 'tissue': '2 cm root sections with roottip'}",{},{},{},{},{},{}
 SAMN05937020,{},{},"{'tissue_sam_ss_dpl145': 'immature seed coat', 'tissue': 'immature seed coat'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716129,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
@@ -6419,9 +6466,9 @@ SAMN12868646,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Infected roots',
 SAMN15648136,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37961020,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN15648493,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549667,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549667,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN32509942,{},"{'tissue_sam_ss_dpl145': 'Leaf at V1 stage', 'tissue': 'Leaf at V1 stage'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549638,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549638,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN08463860,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716577,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN12868670,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Infected roots', 'tissue': 'Infected roots'}",{},{},{},{},{},{}
@@ -6435,6 +6482,7 @@ SAMN15963231,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{}
 SAMN24974162,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09715580,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN09715617,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
+SAMEA104041780,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN19245823,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN17360592,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN20964342,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'pod', 'tissue': 'pod'}",{},{},{},{},{},{},{}
@@ -6475,6 +6523,7 @@ SAMN39637169,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue':
 SAMN33439883,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root nodule', 'tissue': 'root nodule'}",{},{},{},{},{},{}
 SAMN41027807,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN13746644,{},{},{},{},{},{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'style and ovary', 'tissue': 'style and ovary'}"
+SAMEA104041785,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN36011935,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN19355597,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': '1 cm of the root tip', 'tissue': '1 cm of the root tip'}",{},{},{},{},{},{}
 SAMN32153811,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -6658,7 +6707,7 @@ SAMN15464741,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{
 SAMN24974167,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN16086457,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'roots', 'tissue': 'roots'}",{},{},{},{},{},{}
 SAMN30806743,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem', 'tissue': 'stem'}",{},{},{},{},{},{},{},{},{}
-SAMD00549648,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549648,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN03169136,{},"{'tissue_sam_ss_dpl145': 'distal leaf abscission zone', 'tissue': 'distal leaf abscission zone'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN07520854,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN16826267,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'young pods', 'tissue': 'young pods'}",{},{},{},{},{},{},{}
@@ -7076,6 +7125,7 @@ SAMN29470524,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue':
 SAMN09513496,{},{},{},"{'tissue_sam_ss_dpl145': 'inoculation site: ~2 cm below the crown', 'tissue': 'inoculation site: ~2 cm below the crown'}",{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716142,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN09078264,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA4395176,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN06287524,{},{},"{'tissue_sam_ss_dpl145': 'seeds', 'tissue': 'seeds'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648371,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648064,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -7095,7 +7145,7 @@ SAMN37703819,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{}
 SAMN30696817,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN39205497,{},"{'tissue_sam_ss_dpl145': 'Leaf tissue from V4 stage', 'tissue': 'Leaf tissue from V4 stage'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN12040107,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549655,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549655,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN39848657,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN19288372,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN15648253,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -7104,7 +7154,7 @@ SAMN20371398,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{}
 SAMN33199888,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'roots', 'tissue': 'roots'}",{},{},{},{},{},{}
 SAMN37888509,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN22371153,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549661,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549661,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN18795972,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648497,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648391,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -7142,6 +7192,7 @@ SAMN24451510,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue':
 SAMN32153502,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN40001381,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN02709649,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00133783,{},{'tissue': 'leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716411,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN15648242,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN04811604,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
@@ -7175,6 +7226,7 @@ SAMN16826277,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'young pods', 'tissu
 SAMN30227644,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN12040109,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Stem', 'tissue': 'Stem'}",{},{},{},{},{},{},{},{},{}
 SAMN09716149,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
+SAMEA104041779,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN09716070,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN03761653,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN28898363,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -7210,7 +7262,7 @@ SAMN22841306,{},"{'tissue_sam_ss_dpl145': '1st trifoliolate leaflets', 'tissue':
 SAMN07637848,"{'tissue_sam_ss_dpl145': 'roots and leaves', 'tissue': 'roots and leaves'}",{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'roots and leaves', 'tissue': 'roots and leaves'}",{},{},{},{},{},{}
 SAMN19322188,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN05915167,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Roots', 'tissue': 'Roots'}",{},{},{},{},{},{}
-SAMD00222777,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00222777,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN36011925,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN14574501,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'roots', 'tissue': 'roots'}",{},{},{},{},{},{}
 SAMN36780227,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
@@ -7334,6 +7386,7 @@ SAMN29914702,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{
 SAMN03731185,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648104,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN12727381,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA104041782,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN39682048,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN12868648,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Roots without infection', 'tissue': 'Roots without infection'}",{},{},{},{},{},{}
 SAMN40001379,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -7523,6 +7576,7 @@ SAMN24108170,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{}
 SAMN19882153,{},{},{},{},"{'tissue_sam_ss_dpl145': 'Shoots', 'tissue': 'Shoots'}",{},{},{},{},{},{},{},{},{},{}
 SAMN31632523,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN30215971,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00027203,{'tissue': 'young leaves'},{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN10581428,{},{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'immature cotyledon', 'tissue': 'immature cotyledon'}",{},{},{},{}
 SAMN30470204,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN22841324,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'whole root', 'tissue': 'whole root'}",{},{},{},{},{},{}
@@ -7585,6 +7639,7 @@ SAMN12040110,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue':
 SAMN02197688,{},{'tissue': 'young leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN18795861,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716029,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
+SAMEA104041777,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN09716008,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN02640343,{},{},"{'tissue_sam_ss_dpl145': 'Seed coat (50-100mg seed weight stage)', 'tissue': 'Seed coat (50-100mg seed weight stage)'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648112,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -7622,6 +7677,7 @@ SAMN09715613,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotely
 SAMN09716368,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN26420996,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Soybean root', 'tissue': 'Soybean root'}",{},{},{},{},{},{}
 SAMN24451509,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
+SAMEA4395174,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN37946967,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32153466,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37703856,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -7666,7 +7722,7 @@ SAMN27281658,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{}
 SAMN05327848,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN40001431,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716154,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
-SAMD00222780,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00222780,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN21359679,{},"{'tissue_sam_ss_dpl145': '1st trifoliolate leaflets', 'tissue': '1st trifoliolate leaflets'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN27775871,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN19271377,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -7773,6 +7829,7 @@ SAMN10721169,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Whole roots', 't
 SAMN40001395,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648392,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15794005,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00117547,{},{'tissue': 'leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN39682042,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN33359925,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem', 'tissue': 'stem'}",{},{},{},{},{},{},{},{},{}
 SAMN28898370,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -7783,6 +7840,7 @@ SAMN23254488,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem without infection', 
 SAMN09716139,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN36630266,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN40001401,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA5071876,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN37703844,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN16826273,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'young pods', 'tissue': 'young pods'}",{},{},{},{},{},{},{}
 SAMN19663691,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
@@ -7927,7 +7985,7 @@ SAMN03389594,{},{},"{'tissue_sam_ss_dpl145': 'Seed Coat', 'tissue': 'Seed Coat'}
 SAMN09240715,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'ROOT', 'tissue': 'ROOT'}",{},{},{},{},{},{}
 SAMN08287157,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem', 'tissue': 'stem'}",{},{},{},{},{},{},{},{},{}
 SAMN07202347,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549662,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549662,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN34042793,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN19243762,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN38636155,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -8101,6 +8159,7 @@ SAMN16776173,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN09078199,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09716046,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN36760689,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Embryo', 'tissue': 'Embryo'}",{},{},{},{},{}
+SAMD00025074,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN31521721,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648141,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32509950,{},"{'tissue_sam_ss_dpl145': 'Leaf at V1 stage', 'tissue': 'Leaf at V1 stage'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -8144,7 +8203,7 @@ SAMN07521017,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{}
 SAMN08912399,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN31831522,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN18795921,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549672,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549672,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN33988713,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15464737,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37946974,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -8175,6 +8234,7 @@ SAMN09513400,{},{},{},"{'tissue_sam_ss_dpl145': 'inoculation site: ~2 cm below t
 SAMN38636104,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN29153367,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648545,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA5071875,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN32153762,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN14614951,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN41829199,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Stem', 'tissue': 'Stem'}",{},{},{},{},{},{},{},{},{}
@@ -8260,6 +8320,7 @@ SAMN15648259,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN22841277,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'whole root', 'tissue': 'whole root'}",{},{},{},{},{},{}
 SAMN30310290,{},"{'tissue_sam_ss_dpl145': 'Leaf_2', 'tissue': 'Leaf_2'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15648513,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00025076,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN31521718,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09715885,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN09716257,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
@@ -8399,7 +8460,7 @@ SAMN33988723,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{}
 SAMN01883201,{},{},"{'tissue_sam_ss_dpl145': 'seed coat (saddle)', 'tissue': 'seed coat (saddle)'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09715664,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN32153589,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549649,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00549649,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN01886330,"{'tissue_sam_ss_dpl145': 'Trifoliolate leaves', 'tissue': 'Trifoliolate leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN37384607,"{'tissue_sam_ss_dpl145': 'Leaves', 'tissue': 'Leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN05937015,{},{},"{'tissue_sam_ss_dpl145': 'immature seed coat', 'tissue': 'immature seed coat'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -8469,7 +8530,7 @@ SAMN31521714,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{}
 SAMN33295239,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root nodule', 'tissue': 'root nodule'}",{},{},{},{},{},{}
 SAMN08463875,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN19653999,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
-SAMD00222778,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00222778,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN32153789,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN36630268,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32153523,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -8548,7 +8609,8 @@ SAMN41704975,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{}
 SAMN16427386,{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'hypocotyledon', 'tissue': 'hypocotyledon'}",{},{},{},"{'tissue_sam_ss_dpl145': 'hypocotyledon', 'tissue': 'hypocotyledon'}",{},{},{},{}
 SAMN09254264,{},"{'tissue_sam_ss_dpl145': 'upper canopy whole leaflets', 'tissue': 'upper canopy whole leaflets'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN07188080,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'embryo', 'tissue': 'embryo'}",{},{},{},{},{}
-SAMD00549650,{},{'tissue_sam_ss_dpl145': 'Leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA5071872,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
+SAMD00549650,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32153888,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09715764,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN08461542,{},{},{},{},"{'tissue_sam_ss_dpl145': 'shoot apical meristem', 'tissue': 'shoot apical meristem'}","{'tissue_sam_ss_dpl145': 'shoot apical meristem', 'tissue': 'shoot apical meristem'}",{},{},{},{},{},{},{},{},{}
@@ -8579,6 +8641,7 @@ SAMN36894359,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{}
 SAMN15648495,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN07190360,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Roots', 'tissue': 'Roots'}",{},{},{},{},{},{}
 SAMN32153574,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00025075,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN30876648,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Pods', 'tissue': 'Pods'}",{},{},{},{},{},{},{}
 SAMN08463886,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN33330367,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
@@ -8706,8 +8769,10 @@ SAMN31100644,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue':
 SAMN02742641,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN32153850,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN40001411,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00117542,{},{'tissue': 'leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32153760,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN07605650,{},"{'tissue_sam_ss_dpl145': 'trifoliolate leaf', 'tissue': 'trifoliolate leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
+SAMEA112156555,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN15648523,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN19021074,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'roots from soybean', 'tissue': 'roots from soybean'}",{},{},{},{},{},{}
 SAMN19271386,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -8788,7 +8853,7 @@ SAMN29470512,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue':
 SAMN33463378,"{'tissue_sam_ss_dpl145': 'Leaves (first trifoliate stage)', 'tissue': 'Leaves (first trifoliate stage)'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN03169143,{},"{'tissue_sam_ss_dpl145': 'distal leaf abscission zone', 'tissue': 'distal leaf abscission zone'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15041792,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'axillary meristem', 'tissue': 'axillary meristem'}",{},{},{},{},{},{},{},{},{}
-SAMD00222774,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00222774,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN29914714,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN31202780,{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'hypocotyl', 'tissue': 'hypocotyl'}",{},{},{},{},{},{},{},{}
 SAMN29341247,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -8804,6 +8869,7 @@ SAMN36011950,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN07202288,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09715796,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN40001414,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
+SAMD00117552,{},{'tissue': 'leaf'},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN15041185,{},"{'tissue_sam_ss_dpl145': 'unifoliate leaf', 'tissue': 'unifoliate leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN34045328,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09715893,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
@@ -8877,7 +8943,7 @@ SAMN15648508,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{}
 SAMN18795915,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN22841328,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'whole root', 'tissue': 'whole root'}",{},{},{},{},{},{}
 SAMN32735671,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'embryo', 'tissue': 'embryo'}",{},{},{},{},{}
-SAMD00549660,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549660,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN07202284,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN03755616,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN03406708,{},{},"{'tissue_sam_ss_dpl145': 'Seedling', 'tissue': 'Seedling'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -8887,6 +8953,7 @@ SAMN39205307,{},"{'tissue_sam_ss_dpl145': 'Leaf tissue from V4 stage', 'tissue':
 SAMN37926506,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN26566109,{},"{'tissue_sam_ss_dpl145': 'Leaf', 'tissue': 'Leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN32064363,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
+SAMEA5071874,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN31521708,{},{},"{'tissue_sam_ss_dpl145': 'Seed', 'tissue': 'Seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN36630297,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09715762,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
@@ -8894,6 +8961,7 @@ SAMN32735673,{},{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'embryo', 'tis
 SAMN09716062,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN02597095,{},{},{},{},{},{},{},{'tissue': 'Pod'},{},{},{},{},{},{},{}
 SAMN37004744,{},{},{},{},"{'tissue_sam_ss_dpl145': 'shoot', 'tissue': 'shoot'}",{},{},{},{},{},{},{},{},{},{}
+SAMEA5071878,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN29395025,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN19271384,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN03755622,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
@@ -8903,6 +8971,7 @@ SAMN14574498,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'roots', 'tissue'
 SAMN38355142,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
 SAMN06158143,"{'tissue_sam_ss_dpl145': 'trifoliate leaves', 'tissue': 'trifoliate leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN07637870,"{'tissue_sam_ss_dpl145': 'roots and leaves', 'tissue': 'roots and leaves'}",{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'roots and leaves', 'tissue': 'roots and leaves'}",{},{},{},{},{},{}
+SAMEA4395175,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN17141049,"{'tissue_sam_ss_dpl145': 'leaves', 'tissue': 'leaves'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN11807742,"{'tissue_sam_ss_dpl145': 'first trifoliate leaves and apex', 'tissue': 'first trifoliate leaves and apex'}",{},{},{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN13743071,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root', 'tissue': 'root'}",{},{},{},{},{},{}
@@ -8987,7 +9056,7 @@ SAMN20964345,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{}
 SAMN30727777,{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'stem', 'tissue': 'stem'}",{},{},{},{},{},{},{},{},{}
 SAMN07190385,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Roots', 'tissue': 'Roots'}",{},{},{},{},{},{}
 SAMN15648157,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
-SAMD00549657,{},{},{},{},{},{},{},{},{'tissue_sam_ss_dpl145': 'Root'},{},{},{},{},{},{}
+SAMD00549657,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Root', 'tissue': 'Root'}",{},{},{},{},{},{}
 SAMN26566120,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Pod', 'tissue': 'Pod'}",{},{},{},{},{},{},{}
 SAMN36379324,{},{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'root tip', 'tissue': 'root tip'}",{},{},{},{},{},{}
 SAMN18795873,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
@@ -9086,6 +9155,7 @@ SAMN09715883,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotely
 SAMN09715631,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN03000721,{},{},"{'tissue_sam_ss_dpl145': 'seed coat', 'tissue': 'seed coat'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN25263484,{},{},{},{},{},{},{},"{'tissue_sam_ss_dpl145': 'Pod', 'tissue': 'Pod'}",{},{},{},{},{},{},{}
+SAMEA112156553,{},{},{},{},{},{},{},{},{'tissue': 'root'},{},{},{},{},{},{}
 SAMN31831515,{},{},"{'tissue_sam_ss_dpl145': 'seed', 'tissue': 'seed'}",{},{},{},{},{},{},{},{},{},{},{},{}
 SAMN09715685,{},{},{},{},"{'tissue_sam_ss_dpl145': 'The whole shoot above cotelydon', 'tissue': 'The whole shoot above cotelydon'}",{},{},{},{},{},{},{},{},{},{}
 SAMN09078190,{},"{'tissue_sam_ss_dpl145': 'leaf', 'tissue': 'leaf'}",{},{},{},{},{},{},{},{},{},{},{},{},{}
