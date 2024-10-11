@@ -29,10 +29,10 @@ SAMD00161796,,stem
 SAMD00161797,control,stem
 SAMD00161798,,stem
 SAMD00161799,control,stem
-SAMD00182787,temperature,
-SAMD00182788,temperature,
-SAMD00182789,temperature,
-SAMD00182790,temperature,
+SAMD00182787,heat,
+SAMD00182788,heat,
+SAMD00182789,heat,
+SAMD00182790,heat,
 SAMD00183603,control,
 SAMD00183604,control,
 SAMD00183605,control,
@@ -46,12 +46,12 @@ SAMD00216754,,stem
 SAMD00222772,control,root
 SAMD00222773,control,root
 SAMD00222774,control,root
-SAMD00222775,nitrogen,root
-SAMD00222776,nitrogen,root
-SAMD00222777,nitrogen,root
-SAMD00222778,nitrogen,root
-SAMD00222779,nitrogen,root
-SAMD00222780,nitrogen,root
+SAMD00222775,nutrient deficit,root
+SAMD00222776,nutrient deficit,root
+SAMD00222777,nutrient deficit,root
+SAMD00222778,nutrient deficit,root
+SAMD00222779,nutrient deficit,root
+SAMD00222780,nutrient deficit,root
 SAMD00235524,control,
 SAMD00235525,control,
 SAMD00235526,control,
@@ -155,7 +155,7 @@ SAMN00013424,control,
 SAMN00264986,,cotyledon
 SAMN00264987,,cotyledon
 SAMN00264988,,seed
-SAMN00264989,,seed
+SAMN00264989,,cotyledon
 SAMN00265076,,embryo
 SAMN00265078,,seed
 SAMN00265079,,seed
@@ -202,8 +202,8 @@ SAMN01779521,,leave
 SAMN01779522,,leave
 SAMN01779523,,leave
 SAMN01779524,,leave
-SAMN01832611,temperature,
-SAMN01832612,temperature,
+SAMN01832611,heat,
+SAMN01832612,heat,
 SAMN01883195,,seed
 SAMN01883196,,seed
 SAMN01883199,,seed
@@ -405,7 +405,7 @@ SAMN02644800,,root
 SAMN02644802,,cotyledon
 SAMN02644803,,stem
 SAMN02644804,,stem
-SAMN02644805,,shoot
+SAMN02644805,,stem
 SAMN02644806,,leaf
 SAMN02644807,,leaf
 SAMN02644809,,leaf
@@ -414,9 +414,9 @@ SAMN02644811,,leaf
 SAMN02644817,,pod
 SAMN02644818,,pod
 SAMN02644819,,pod
-SAMN02644820,,seed
-SAMN02644821,,seed
-SAMN02644822,,seed
+SAMN02644820,,pod
+SAMN02644821,,pod
+SAMN02644822,,pod
 SAMN02644823,,seed
 SAMN02644824,,seed
 SAMN02644825,,seed
@@ -425,9 +425,9 @@ SAMN02644827,,seed
 SAMN02688407,,root
 SAMN02688408,,cotyledon
 SAMN02688409,,hypocotyl
-SAMN02688411,,shoot
-SAMN02688412,,shoot
-SAMN02688413,,shoot
+SAMN02688411,,stem
+SAMN02688412,,stem
+SAMN02688413,,stem
 SAMN02688414,,stem
 SAMN02709646,,seed
 SAMN02709647,,seed
@@ -493,10 +493,10 @@ SAMN02776959,,seed
 SAMN02776960,,seed
 SAMN02776961,,seed
 SAMN02799124,,root
-SAMN02799128,,shoot
-SAMN02799129,,shoot
+SAMN02799128,,stem
+SAMN02799129,,stem
 SAMN02799130,,cotyledon
-SAMN02799131,,shoot
+SAMN02799131,,stem
 SAMN02799133,,cotyledon
 SAMN02799134,,cotyledon
 SAMN02799135,,cotyledon
@@ -555,30 +555,30 @@ SAMN03000718,,seed
 SAMN03000719,,seed
 SAMN03000720,,seed
 SAMN03000721,,seed
-SAMN03014458,deficit,shoot
-SAMN03014459,deficit,shoot
-SAMN03014460,deficit,shoot
-SAMN03014461,deficit,shoot
-SAMN03014462,deficit,shoot
-SAMN03014463,deficit,shoot
-SAMN03014464,deficit,shoot
-SAMN03014465,deficit,shoot
-SAMN03014466,deficit,shoot
-SAMN03014467,deficit,shoot
-SAMN03014468,deficit,shoot
-SAMN03014469,deficit,shoot
-SAMN03014470,deficit,shoot
-SAMN03014471,deficit,shoot
-SAMN03014472,deficit,shoot
-SAMN03014473,deficit,shoot
-SAMN03014474,deficit,shoot
-SAMN03014475,deficit,shoot
-SAMN03014476,deficit,shoot
-SAMN03014477,deficit,shoot
-SAMN03014478,deficit,shoot
-SAMN03014479,deficit,shoot
-SAMN03014480,deficit,shoot
-SAMN03014481,deficit,shoot
+SAMN03014458,nutrient deficit,shoot
+SAMN03014459,nutrient deficit,shoot
+SAMN03014460,nutrient deficit,shoot
+SAMN03014461,nutrient deficit,shoot
+SAMN03014462,nutrient deficit,shoot
+SAMN03014463,nutrient deficit,shoot
+SAMN03014464,nutrient deficit,shoot
+SAMN03014465,nutrient deficit,shoot
+SAMN03014466,nutrient deficit,shoot
+SAMN03014467,nutrient deficit,shoot
+SAMN03014468,nutrient deficit,shoot
+SAMN03014469,nutrient deficit,shoot
+SAMN03014470,nutrient deficit,shoot
+SAMN03014471,nutrient deficit,shoot
+SAMN03014472,nutrient deficit,shoot
+SAMN03014473,nutrient deficit,shoot
+SAMN03014474,nutrient deficit,shoot
+SAMN03014475,nutrient deficit,shoot
+SAMN03014476,nutrient deficit,shoot
+SAMN03014477,nutrient deficit,shoot
+SAMN03014478,nutrient deficit,shoot
+SAMN03014479,nutrient deficit,shoot
+SAMN03014480,nutrient deficit,shoot
+SAMN03014481,nutrient deficit,shoot
 SAMN03083677,,cotyledon
 SAMN03083678,,cotyledon
 SAMN03083679,,cotyledon
@@ -709,39 +709,39 @@ SAMN03473689,infest,leaf
 SAMN03473690,infest,leaf
 SAMN03731185,,leaf
 SAMN03731186,,leaf
-SAMN03755595,deficit,leave
-SAMN03755596,deficit,leave
-SAMN03755597,deficit,leave
+SAMN03755595,nutrient deficit,leave
+SAMN03755596,nutrient deficit,leave
+SAMN03755597,nutrient deficit,leave
 SAMN03755598,control,leave
 SAMN03755599,control,leave
 SAMN03755600,control,leave
-SAMN03755601,deficit,leave
-SAMN03755602,deficit,leave
-SAMN03755603,deficit,leave
+SAMN03755601,nutrient deficit,leave
+SAMN03755602,nutrient deficit,leave
+SAMN03755603,nutrient deficit,leave
 SAMN03755604,control,leave
 SAMN03755605,control,leave
 SAMN03755606,control,leave
-SAMN03755607,deficit,leave
-SAMN03755608,deficit,leave
-SAMN03755609,deficit,leave
+SAMN03755607,nutrient deficit,leave
+SAMN03755608,nutrient deficit,leave
+SAMN03755609,nutrient deficit,leave
 SAMN03755610,control,leave
 SAMN03755611,control,leave
 SAMN03755612,control,leave
-SAMN03755613,deficit,leave
-SAMN03755614,deficit,leave
-SAMN03755615,deficit,leave
+SAMN03755613,nutrient deficit,leave
+SAMN03755614,nutrient deficit,leave
+SAMN03755615,nutrient deficit,leave
 SAMN03755616,control,leave
 SAMN03755617,control,leave
 SAMN03755618,control,leave
-SAMN03755619,deficit,leave
-SAMN03755620,deficit,leave
-SAMN03755621,deficit,leave
+SAMN03755619,nutrient deficit,leave
+SAMN03755620,nutrient deficit,leave
+SAMN03755621,nutrient deficit,leave
 SAMN03755622,control,leave
 SAMN03755623,control,leave
 SAMN03755624,control,leave
-SAMN03755625,deficit,leave
-SAMN03755626,deficit,leave
-SAMN03755627,deficit,leave
+SAMN03755625,nutrient deficit,leave
+SAMN03755626,nutrient deficit,leave
+SAMN03755627,nutrient deficit,leave
 SAMN03755628,control,leave
 SAMN03755629,control,leave
 SAMN03755630,control,leave
@@ -1074,14 +1074,14 @@ SAMN06158141,,leave
 SAMN06158142,,leave
 SAMN06158143,,leave
 SAMN06158144,,leave
-SAMN06212809,,whole
-SAMN06212810,,whole
-SAMN06212811,,whole
-SAMN06212812,,whole
-SAMN06212813,,whole
-SAMN06212814,,whole
-SAMN06212815,,whole
-SAMN06212816,,whole
+SAMN06212809,,root
+SAMN06212810,,root
+SAMN06212811,,root
+SAMN06212812,,root
+SAMN06212813,,root
+SAMN06212814,,root
+SAMN06212815,,root
+SAMN06212816,,root
 SAMN06287520,,seed
 SAMN06287521,,seed
 SAMN06287522,,seed
@@ -1107,7 +1107,7 @@ SAMN06434853,,root
 SAMN06434854,,root
 SAMN06434855,,root
 SAMN06434856,,root
-SAMN06435843,control,whole
+SAMN06435843,control,root
 SAMN06644736,,leaf
 SAMN07109350,,leaf
 SAMN07147960,,seed
@@ -1334,24 +1334,24 @@ SAMN07605648,,leaf
 SAMN07605649,,leaf
 SAMN07605650,,leaf
 SAMN07605651,,leaf
-SAMN07637373,,whole
-SAMN07637375,,whole
-SAMN07637806,,whole
-SAMN07637808,,whole
-SAMN07637809,,whole
-SAMN07637828,,whole
-SAMN07637847,,whole
-SAMN07637848,,whole
-SAMN07637849,,whole
-SAMN07637868,,whole
-SAMN07637870,,whole
-SAMN07637873,,whole
-SAMN07637874,,whole
-SAMN07637875,,whole
-SAMN07637876,,whole
-SAMN07637877,,whole
-SAMN07637897,,whole
-SAMN07637898,,whole
+SAMN07637373,,root
+SAMN07637375,,root
+SAMN07637806,,root
+SAMN07637808,,root
+SAMN07637809,,root
+SAMN07637828,,root
+SAMN07637847,,root
+SAMN07637848,,root
+SAMN07637849,,root
+SAMN07637868,,root
+SAMN07637870,,root
+SAMN07637873,,root
+SAMN07637874,,root
+SAMN07637875,,root
+SAMN07637876,,root
+SAMN07637877,,root
+SAMN07637897,,root
+SAMN07637898,,root
 SAMN07703162,,leaf
 SAMN07703163,,leaf
 SAMN07703164,,leaf
@@ -1394,51 +1394,51 @@ SAMN08287183,,stem
 SAMN08287184,,stem
 SAMN08287185,,stem
 SAMN08287186,,stem
-SAMN08461531,,shoot
-SAMN08461532,,shoot
-SAMN08461533,,shoot
-SAMN08461534,,shoot
-SAMN08461535,,shoot
-SAMN08461536,,shoot
-SAMN08461537,,shoot
-SAMN08461538,,shoot
-SAMN08461539,,shoot
-SAMN08461540,,shoot
-SAMN08461541,,shoot
-SAMN08461542,,shoot
-SAMN08461543,,shoot
-SAMN08461544,,shoot
-SAMN08461545,,shoot
-SAMN08461546,,shoot
-SAMN08461547,,shoot
-SAMN08461548,,shoot
-SAMN08461549,,shoot
-SAMN08461550,,shoot
-SAMN08461551,,shoot
-SAMN08461552,,shoot
-SAMN08461553,,shoot
-SAMN08461554,,shoot
-SAMN08461555,,shoot
-SAMN08461556,,shoot
-SAMN08461557,,shoot
-SAMN08461558,,shoot
-SAMN08461559,,shoot
-SAMN08461560,,shoot
-SAMN08461561,,shoot
-SAMN08461562,,shoot
-SAMN08461563,,shoot
-SAMN08461564,,shoot
-SAMN08461565,,shoot
-SAMN08461566,,shoot
-SAMN08461567,,shoot
-SAMN08461568,,shoot
-SAMN08461569,,shoot
-SAMN08461570,,shoot
-SAMN08461571,,shoot
-SAMN08461572,,shoot
-SAMN08461573,,shoot
-SAMN08461574,,shoot
-SAMN08461575,,shoot
+SAMN08461531,,stem
+SAMN08461532,,stem
+SAMN08461533,,stem
+SAMN08461534,,stem
+SAMN08461535,,stem
+SAMN08461536,,stem
+SAMN08461537,,stem
+SAMN08461538,,stem
+SAMN08461539,,stem
+SAMN08461540,,stem
+SAMN08461541,,stem
+SAMN08461542,,stem
+SAMN08461543,,stem
+SAMN08461544,,stem
+SAMN08461545,,stem
+SAMN08461546,,stem
+SAMN08461547,,stem
+SAMN08461548,,stem
+SAMN08461549,,stem
+SAMN08461550,,stem
+SAMN08461551,,stem
+SAMN08461552,,stem
+SAMN08461553,,stem
+SAMN08461554,,stem
+SAMN08461555,,stem
+SAMN08461556,,stem
+SAMN08461557,,stem
+SAMN08461558,,stem
+SAMN08461559,,stem
+SAMN08461560,,stem
+SAMN08461561,,stem
+SAMN08461562,,stem
+SAMN08461563,,stem
+SAMN08461564,,stem
+SAMN08461565,,stem
+SAMN08461566,,stem
+SAMN08461567,,stem
+SAMN08461568,,stem
+SAMN08461569,,stem
+SAMN08461570,,stem
+SAMN08461571,,stem
+SAMN08461572,,stem
+SAMN08461573,,stem
+SAMN08461574,,stem
+SAMN08461575,,stem
 SAMN08463859,control,leaf
 SAMN08463860,control,leaf
 SAMN08463861,control,leaf
@@ -1476,9 +1476,9 @@ SAMN08463892,,root
 SAMN08463893,,root
 SAMN08463894,,root
 SAMN08469974,control,root
-SAMN08469975,pathogen,root
+SAMN08469975,fungus,root
 SAMN08469976,control,root
-SAMN08469977,pathogen,root
+SAMN08469977,fungus,root
 SAMN08565566,,leaf
 SAMN08565567,,leaf
 SAMN08606021,,leave
@@ -1680,18 +1680,18 @@ SAMN09270596,,leaf
 SAMN09270597,,leaf
 SAMN09270598,,leaf
 SAMN09270599,,leaf
-SAMN09295119,,seed
-SAMN09295120,,seed
-SAMN09295121,,seed
-SAMN09295122,inoculated,seed
-SAMN09295123,inoculated,seed
-SAMN09295124,inoculated,seed
-SAMN09295125,,seed
-SAMN09295126,,seed
-SAMN09295127,,seed
-SAMN09295128,inoculated,seed
-SAMN09295129,inoculated,seed
-SAMN09295130,inoculated,seed
+SAMN09295119,,root
+SAMN09295120,,root
+SAMN09295121,,root
+SAMN09295122,inoculated,root
+SAMN09295123,inoculated,root
+SAMN09295124,inoculated,root
+SAMN09295125,,root
+SAMN09295126,,root
+SAMN09295127,,root
+SAMN09295128,inoculated,root
+SAMN09295129,inoculated,root
+SAMN09295130,inoculated,root
 SAMN09489353,control,leave
 SAMN09489354,,leave
 SAMN09489355,control,leave
@@ -3198,9 +3198,9 @@ SAMN12172106,,root
 SAMN12172107,,root
 SAMN12172108,,root
 SAMN12172309,,seed
-SAMN12210911,,seed
+SAMN12210911,,pod
 SAMN12210912,,root
-SAMN12210913,,leaf
+SAMN12210913,,stem
 SAMN12600377,,root
 SAMN12600378,,root
 SAMN12600379,,root
@@ -3236,7 +3236,7 @@ SAMN12792926,control,shoot
 SAMN12792927,,shoot
 SAMN12792928,,shoot
 SAMN12792929,,shoot
-SAMN12861902,drought,whole
+SAMN12861902,drought,root
 SAMN12868622,,root
 SAMN12868623,,root
 SAMN12868624,,root
@@ -3671,9 +3671,9 @@ SAMN15464733,stress,leave
 SAMN15464734,heat,leave
 SAMN15464735,heat,leave
 SAMN15464736,heat,leave
-SAMN15464737,deficit,leave
-SAMN15464738,deficit,leave
-SAMN15464739,deficit,leave
+SAMN15464737,nutrient deficit,leave
+SAMN15464738,nutrient deficit,leave
+SAMN15464739,nutrient deficit,leave
 SAMN15464740,control,leave
 SAMN15464741,control,leave
 SAMN15464742,control,leave
@@ -4292,26 +4292,26 @@ SAMN15963234,,leaf
 SAMN15963235,,leaf
 SAMN15963236,,leaf
 SAMN15963237,,leaf
-SAMN16086456,iron,root
-SAMN16086457,iron,root
-SAMN16086458,iron,root
-SAMN16086459,iron,root
-SAMN16086460,iron,root
-SAMN16086461,iron,root
-SAMN16089601,iron,
-SAMN16089602,iron,
+SAMN16086456,nutrient deficit,root
+SAMN16086457,nutrient deficit,root
+SAMN16086458,nutrient deficit,root
+SAMN16086459,nutrient deficit,root
+SAMN16086460,nutrient deficit,root
+SAMN16086461,nutrient deficit,root
+SAMN16089601,nutrient deficit,
+SAMN16089602,nutrient deficit,
 SAMN16089603,stress,
-SAMN16089604,iron,
-SAMN16089605,iron,
+SAMN16089604,nutrient deficit,
+SAMN16089605,nutrient deficit,
 SAMN16089606,stress,
-SAMN16089607,iron,root
-SAMN16089608,iron,root
+SAMN16089607,nutrient deficit,root
+SAMN16089608,nutrient deficit,root
 SAMN16089609,stress,root
-SAMN16089610,iron,root
-SAMN16089611,iron,root
+SAMN16089610,nutrient deficit,root
+SAMN16089611,nutrient deficit,root
 SAMN16089612,stress,root
-SAMN16113911,iron,
-SAMN16113912,iron,root
+SAMN16113911,nutrient deficit,
+SAMN16113912,nutrient deficit,root
 SAMN16132135,,leaf
 SAMN16132136,,leaf
 SAMN16132137,,leaf
@@ -4326,12 +4326,12 @@ SAMN16132145,,leaf
 SAMN16132146,,leaf
 SAMN16198190,,root
 SAMN16198191,,root
-SAMN16226299,iron,leave
-SAMN16226300,iron,leave
-SAMN16226301,iron,leave
-SAMN16226302,iron,leave
-SAMN16226303,iron,leave
-SAMN16226304,iron,leave
+SAMN16226299,nutrient deficit,leave
+SAMN16226300,nutrient deficit,leave
+SAMN16226301,nutrient deficit,leave
+SAMN16226302,nutrient deficit,leave
+SAMN16226303,nutrient deficit,leave
+SAMN16226304,nutrient deficit,leave
 SAMN16238399,,root
 SAMN16238400,,root
 SAMN16238401,,root
@@ -5159,7 +5159,7 @@ SAMN20525661,,leaf
 SAMN20525662,,leaf
 SAMN20525663,,leaf
 SAMN20525664,,leaf
-SAMN20702932,,whole
+SAMN20702932,,root
 SAMN20841302,,shoot
 SAMN20841303,,shoot
 SAMN20841304,,leave
@@ -5192,243 +5192,243 @@ SAMN20971797,inoculated,
 SAMN20972142,inoculated,
 SAMN21014840,control,hypocotyl
 SAMN21216007,stress,
-SAMN21216008,iron,
+SAMN21216008,nutrient deficit,
 SAMN21216009,stress,
-SAMN21216010,iron,
+SAMN21216010,nutrient deficit,
 SAMN21216011,stress,
-SAMN21216012,iron,
+SAMN21216012,nutrient deficit,
 SAMN21216013,stress,
-SAMN21216014,iron,
+SAMN21216014,nutrient deficit,
 SAMN21216015,stress,root
-SAMN21216016,iron,root
+SAMN21216016,nutrient deficit,root
 SAMN21216017,stress,root
-SAMN21216018,iron,root
+SAMN21216018,nutrient deficit,root
 SAMN21216019,stress,root
-SAMN21216020,iron,root
+SAMN21216020,nutrient deficit,root
 SAMN21216021,stress,root
-SAMN21216022,iron,root
+SAMN21216022,nutrient deficit,root
 SAMN21218880,,leaf
 SAMN21218881,,leaf
 SAMN21218882,,leaf
 SAMN21218883,,leaf
 SAMN21218884,,leaf
 SAMN21218885,,leaf
-SAMN21359665,iron,leaf
-SAMN21359666,iron,leaf
-SAMN21359667,iron,leaf
-SAMN21359668,iron,leaf
-SAMN21359669,iron,leaf
-SAMN21359670,iron,leaf
-SAMN21359671,iron,leaf
-SAMN21359672,iron,leaf
-SAMN21359673,iron,leaf
-SAMN21359674,iron,leaf
-SAMN21359675,iron,leaf
-SAMN21359676,iron,leaf
-SAMN21359677,iron,leaf
-SAMN21359678,iron,leaf
-SAMN21359679,iron,leaf
-SAMN21359680,iron,leaf
-SAMN21359681,iron,leaf
-SAMN21359682,iron,leaf
-SAMN21359683,iron,leaf
-SAMN21359684,iron,leaf
-SAMN21359685,iron,leaf
-SAMN21359686,iron,leaf
-SAMN21359687,iron,leaf
-SAMN21359688,iron,leaf
-SAMN21359689,iron,leaf
-SAMN21359690,iron,leaf
-SAMN21359691,iron,leaf
-SAMN21359692,iron,leaf
-SAMN21359693,iron,leaf
-SAMN21359694,iron,leaf
-SAMN21359695,iron,leaf
-SAMN21359696,iron,leaf
-SAMN21359697,iron,leaf
-SAMN21359698,iron,leaf
-SAMN21359699,iron,leaf
-SAMN21359700,iron,leaf
-SAMN21359701,iron,leaf
-SAMN21359702,iron,leaf
-SAMN21359703,iron,leaf
-SAMN21359704,iron,leaf
-SAMN21359705,iron,leaf
-SAMN21359706,iron,leaf
-SAMN21359707,iron,leaf
-SAMN21359708,iron,leaf
-SAMN21359709,iron,leaf
-SAMN21359710,iron,leaf
-SAMN21359711,iron,leaf
-SAMN21359712,iron,leaf
-SAMN21359713,iron,leaf
-SAMN21359714,iron,leaf
-SAMN21359715,iron,leaf
-SAMN21359716,iron,leaf
-SAMN21359717,iron,leaf
-SAMN21359718,iron,leaf
-SAMN21359719,iron,leaf
-SAMN21359720,iron,leaf
-SAMN21359721,iron,leaf
-SAMN21359722,iron,leaf
-SAMN21359723,iron,leaf
-SAMN21359724,iron,leaf
-SAMN21359725,iron,leaf
-SAMN21359726,iron,leaf
-SAMN21359727,iron,leaf
-SAMN21359728,iron,leaf
-SAMN21359729,iron,leaf
-SAMN21359730,iron,leaf
-SAMN21359731,iron,leaf
-SAMN21359732,iron,leaf
-SAMN21359733,iron,leaf
-SAMN21359734,iron,leaf
-SAMN21359735,iron,leaf
-SAMN21359736,iron,leaf
-SAMN21359737,iron,leaf
-SAMN21359738,iron,leaf
-SAMN21359739,iron,leaf
-SAMN21359740,iron,leaf
-SAMN21359741,iron,leaf
-SAMN21359742,iron,leaf
-SAMN21359743,iron,leaf
-SAMN21359744,iron,leaf
-SAMN21359745,iron,leaf
-SAMN21359746,iron,leaf
-SAMN21359747,iron,leaf
-SAMN21359748,iron,leaf
-SAMN21359749,iron,leaf
-SAMN21359750,iron,leaf
-SAMN21359751,iron,leaf
-SAMN21359752,iron,leaf
-SAMN21359753,iron,leaf
-SAMN21359754,iron,leaf
-SAMN21359755,iron,leaf
-SAMN21359756,iron,leaf
-SAMN21359757,iron,leaf
-SAMN21359758,iron,leaf
-SAMN21359759,iron,leaf
-SAMN21359760,iron,leaf
-SAMN21359761,iron,leaf
-SAMN21359762,iron,leaf
-SAMN21359763,iron,leaf
-SAMN21359764,iron,leaf
-SAMN21359765,iron,leaf
-SAMN21359766,iron,leaf
-SAMN21359767,iron,leaf
-SAMN21359768,iron,leaf
-SAMN21359769,iron,leaf
-SAMN21359770,iron,leaf
-SAMN21359771,iron,leaf
-SAMN21359772,iron,leaf
-SAMN21359773,iron,root
-SAMN21359774,iron,root
-SAMN21359775,iron,root
-SAMN21359776,iron,root
-SAMN21359777,iron,root
-SAMN21359778,iron,root
-SAMN21359779,iron,root
-SAMN21359780,iron,root
-SAMN21359781,iron,root
-SAMN21359782,iron,root
-SAMN21359783,iron,root
-SAMN21359784,iron,root
-SAMN21359785,iron,root
-SAMN21359786,iron,root
-SAMN21359787,iron,root
-SAMN21359788,iron,root
-SAMN21359789,iron,root
-SAMN21359790,iron,root
-SAMN21359791,iron,root
-SAMN21359792,iron,root
-SAMN21359793,iron,root
-SAMN21359794,iron,root
-SAMN21359795,iron,root
-SAMN21359796,iron,root
-SAMN21359797,iron,root
-SAMN21359798,iron,root
-SAMN21359799,iron,root
-SAMN21359800,iron,root
-SAMN21359801,iron,root
-SAMN21359802,iron,root
-SAMN21359803,iron,root
-SAMN21359804,iron,root
-SAMN21359805,iron,root
-SAMN21359806,iron,root
-SAMN21359807,iron,root
-SAMN21359808,iron,root
-SAMN21359809,iron,root
-SAMN21359810,iron,root
-SAMN21359811,iron,root
-SAMN21359812,iron,root
-SAMN21359813,iron,root
-SAMN21359814,iron,root
-SAMN21359815,iron,root
-SAMN21359816,iron,root
-SAMN21359817,iron,root
-SAMN21359818,iron,root
-SAMN21359819,iron,root
-SAMN21359820,iron,root
-SAMN21359821,iron,root
-SAMN21359822,iron,root
-SAMN21359823,iron,root
-SAMN21359824,iron,root
-SAMN21359825,iron,root
-SAMN21359826,iron,root
-SAMN21359827,iron,root
-SAMN21359828,iron,root
-SAMN21359829,iron,root
-SAMN21359830,iron,root
-SAMN21359831,iron,root
-SAMN21359832,iron,root
-SAMN21359833,iron,root
-SAMN21359834,iron,root
-SAMN21359835,iron,root
-SAMN21359836,iron,root
-SAMN21359837,iron,root
-SAMN21359838,iron,root
-SAMN21359839,iron,root
-SAMN21359840,iron,root
-SAMN21359841,iron,root
-SAMN21359842,iron,root
-SAMN21359843,iron,root
-SAMN21359844,iron,root
-SAMN21359845,iron,root
-SAMN21359846,iron,root
-SAMN21359847,iron,root
-SAMN21359848,iron,root
-SAMN21359849,iron,root
-SAMN21359850,iron,root
-SAMN21359851,iron,root
-SAMN21359852,iron,root
-SAMN21359853,iron,root
-SAMN21359854,iron,root
-SAMN21359855,iron,root
-SAMN21359856,iron,root
-SAMN21359857,iron,root
-SAMN21359858,iron,root
-SAMN21359859,iron,root
-SAMN21359860,iron,root
-SAMN21359861,iron,root
-SAMN21359862,iron,root
-SAMN21359863,iron,root
-SAMN21359864,iron,root
-SAMN21359865,iron,root
-SAMN21359866,iron,root
-SAMN21359867,iron,root
-SAMN21359868,iron,root
-SAMN21359869,iron,root
-SAMN21359870,iron,root
-SAMN21359871,iron,root
-SAMN21359872,iron,root
-SAMN21359873,iron,root
-SAMN21359874,iron,root
-SAMN21359875,iron,root
-SAMN21359876,iron,root
-SAMN21359877,iron,root
-SAMN21359878,iron,root
-SAMN21359879,iron,root
-SAMN21359880,iron,root
+SAMN21359665,nutrient deficit,leaf
+SAMN21359666,nutrient deficit,leaf
+SAMN21359667,nutrient deficit,leaf
+SAMN21359668,nutrient deficit,leaf
+SAMN21359669,nutrient deficit,leaf
+SAMN21359670,nutrient deficit,leaf
+SAMN21359671,nutrient deficit,leaf
+SAMN21359672,nutrient deficit,leaf
+SAMN21359673,nutrient deficit,leaf
+SAMN21359674,nutrient deficit,leaf
+SAMN21359675,nutrient deficit,leaf
+SAMN21359676,nutrient deficit,leaf
+SAMN21359677,nutrient deficit,leaf
+SAMN21359678,nutrient deficit,leaf
+SAMN21359679,nutrient deficit,leaf
+SAMN21359680,nutrient deficit,leaf
+SAMN21359681,nutrient deficit,leaf
+SAMN21359682,nutrient deficit,leaf
+SAMN21359683,nutrient deficit,leaf
+SAMN21359684,nutrient deficit,leaf
+SAMN21359685,nutrient deficit,leaf
+SAMN21359686,nutrient deficit,leaf
+SAMN21359687,nutrient deficit,leaf
+SAMN21359688,nutrient deficit,leaf
+SAMN21359689,nutrient deficit,leaf
+SAMN21359690,nutrient deficit,leaf
+SAMN21359691,nutrient deficit,leaf
+SAMN21359692,nutrient deficit,leaf
+SAMN21359693,nutrient deficit,leaf
+SAMN21359694,nutrient deficit,leaf
+SAMN21359695,nutrient deficit,leaf
+SAMN21359696,nutrient deficit,leaf
+SAMN21359697,nutrient deficit,leaf
+SAMN21359698,nutrient deficit,leaf
+SAMN21359699,nutrient deficit,leaf
+SAMN21359700,nutrient deficit,leaf
+SAMN21359701,nutrient deficit,leaf
+SAMN21359702,nutrient deficit,leaf
+SAMN21359703,nutrient deficit,leaf
+SAMN21359704,nutrient deficit,leaf
+SAMN21359705,nutrient deficit,leaf
+SAMN21359706,nutrient deficit,leaf
+SAMN21359707,nutrient deficit,leaf
+SAMN21359708,nutrient deficit,leaf
+SAMN21359709,nutrient deficit,leaf
+SAMN21359710,nutrient deficit,leaf
+SAMN21359711,nutrient deficit,leaf
+SAMN21359712,nutrient deficit,leaf
+SAMN21359713,nutrient deficit,leaf
+SAMN21359714,nutrient deficit,leaf
+SAMN21359715,nutrient deficit,leaf
+SAMN21359716,nutrient deficit,leaf
+SAMN21359717,nutrient deficit,leaf
+SAMN21359718,nutrient deficit,leaf
+SAMN21359719,nutrient deficit,leaf
+SAMN21359720,nutrient deficit,leaf
+SAMN21359721,nutrient deficit,leaf
+SAMN21359722,nutrient deficit,leaf
+SAMN21359723,nutrient deficit,leaf
+SAMN21359724,nutrient deficit,leaf
+SAMN21359725,nutrient deficit,leaf
+SAMN21359726,nutrient deficit,leaf
+SAMN21359727,nutrient deficit,leaf
+SAMN21359728,nutrient deficit,leaf
+SAMN21359729,nutrient deficit,leaf
+SAMN21359730,nutrient deficit,leaf
+SAMN21359731,nutrient deficit,leaf
+SAMN21359732,nutrient deficit,leaf
+SAMN21359733,nutrient deficit,leaf
+SAMN21359734,nutrient deficit,leaf
+SAMN21359735,nutrient deficit,leaf
+SAMN21359736,nutrient deficit,leaf
+SAMN21359737,nutrient deficit,leaf
+SAMN21359738,nutrient deficit,leaf
+SAMN21359739,nutrient deficit,leaf
+SAMN21359740,nutrient deficit,leaf
+SAMN21359741,nutrient deficit,leaf
+SAMN21359742,nutrient deficit,leaf
+SAMN21359743,nutrient deficit,leaf
+SAMN21359744,nutrient deficit,leaf
+SAMN21359745,nutrient deficit,leaf
+SAMN21359746,nutrient deficit,leaf
+SAMN21359747,nutrient deficit,leaf
+SAMN21359748,nutrient deficit,leaf
+SAMN21359749,nutrient deficit,leaf
+SAMN21359750,nutrient deficit,leaf
+SAMN21359751,nutrient deficit,leaf
+SAMN21359752,nutrient deficit,leaf
+SAMN21359753,nutrient deficit,leaf
+SAMN21359754,nutrient deficit,leaf
+SAMN21359755,nutrient deficit,leaf
+SAMN21359756,nutrient deficit,leaf
+SAMN21359757,nutrient deficit,leaf
+SAMN21359758,nutrient deficit,leaf
+SAMN21359759,nutrient deficit,leaf
+SAMN21359760,nutrient deficit,leaf
+SAMN21359761,nutrient deficit,leaf
+SAMN21359762,nutrient deficit,leaf
+SAMN21359763,nutrient deficit,leaf
+SAMN21359764,nutrient deficit,leaf
+SAMN21359765,nutrient deficit,leaf
+SAMN21359766,nutrient deficit,leaf
+SAMN21359767,nutrient deficit,leaf
+SAMN21359768,nutrient deficit,leaf
+SAMN21359769,nutrient deficit,leaf
+SAMN21359770,nutrient deficit,leaf
+SAMN21359771,nutrient deficit,leaf
+SAMN21359772,nutrient deficit,leaf
+SAMN21359773,nutrient deficit,root
+SAMN21359774,nutrient deficit,root
+SAMN21359775,nutrient deficit,root
+SAMN21359776,nutrient deficit,root
+SAMN21359777,nutrient deficit,root
+SAMN21359778,nutrient deficit,root
+SAMN21359779,nutrient deficit,root
+SAMN21359780,nutrient deficit,root
+SAMN21359781,nutrient deficit,root
+SAMN21359782,nutrient deficit,root
+SAMN21359783,nutrient deficit,root
+SAMN21359784,nutrient deficit,root
+SAMN21359785,nutrient deficit,root
+SAMN21359786,nutrient deficit,root
+SAMN21359787,nutrient deficit,root
+SAMN21359788,nutrient deficit,root
+SAMN21359789,nutrient deficit,root
+SAMN21359790,nutrient deficit,root
+SAMN21359791,nutrient deficit,root
+SAMN21359792,nutrient deficit,root
+SAMN21359793,nutrient deficit,root
+SAMN21359794,nutrient deficit,root
+SAMN21359795,nutrient deficit,root
+SAMN21359796,nutrient deficit,root
+SAMN21359797,nutrient deficit,root
+SAMN21359798,nutrient deficit,root
+SAMN21359799,nutrient deficit,root
+SAMN21359800,nutrient deficit,root
+SAMN21359801,nutrient deficit,root
+SAMN21359802,nutrient deficit,root
+SAMN21359803,nutrient deficit,root
+SAMN21359804,nutrient deficit,root
+SAMN21359805,nutrient deficit,root
+SAMN21359806,nutrient deficit,root
+SAMN21359807,nutrient deficit,root
+SAMN21359808,nutrient deficit,root
+SAMN21359809,nutrient deficit,root
+SAMN21359810,nutrient deficit,root
+SAMN21359811,nutrient deficit,root
+SAMN21359812,nutrient deficit,root
+SAMN21359813,nutrient deficit,root
+SAMN21359814,nutrient deficit,root
+SAMN21359815,nutrient deficit,root
+SAMN21359816,nutrient deficit,root
+SAMN21359817,nutrient deficit,root
+SAMN21359818,nutrient deficit,root
+SAMN21359819,nutrient deficit,root
+SAMN21359820,nutrient deficit,root
+SAMN21359821,nutrient deficit,root
+SAMN21359822,nutrient deficit,root
+SAMN21359823,nutrient deficit,root
+SAMN21359824,nutrient deficit,root
+SAMN21359825,nutrient deficit,root
+SAMN21359826,nutrient deficit,root
+SAMN21359827,nutrient deficit,root
+SAMN21359828,nutrient deficit,root
+SAMN21359829,nutrient deficit,root
+SAMN21359830,nutrient deficit,root
+SAMN21359831,nutrient deficit,root
+SAMN21359832,nutrient deficit,root
+SAMN21359833,nutrient deficit,root
+SAMN21359834,nutrient deficit,root
+SAMN21359835,nutrient deficit,root
+SAMN21359836,nutrient deficit,root
+SAMN21359837,nutrient deficit,root
+SAMN21359838,nutrient deficit,root
+SAMN21359839,nutrient deficit,root
+SAMN21359840,nutrient deficit,root
+SAMN21359841,nutrient deficit,root
+SAMN21359842,nutrient deficit,root
+SAMN21359843,nutrient deficit,root
+SAMN21359844,nutrient deficit,root
+SAMN21359845,nutrient deficit,root
+SAMN21359846,nutrient deficit,root
+SAMN21359847,nutrient deficit,root
+SAMN21359848,nutrient deficit,root
+SAMN21359849,nutrient deficit,root
+SAMN21359850,nutrient deficit,root
+SAMN21359851,nutrient deficit,root
+SAMN21359852,nutrient deficit,root
+SAMN21359853,nutrient deficit,root
+SAMN21359854,nutrient deficit,root
+SAMN21359855,nutrient deficit,root
+SAMN21359856,nutrient deficit,root
+SAMN21359857,nutrient deficit,root
+SAMN21359858,nutrient deficit,root
+SAMN21359859,nutrient deficit,root
+SAMN21359860,nutrient deficit,root
+SAMN21359861,nutrient deficit,root
+SAMN21359862,nutrient deficit,root
+SAMN21359863,nutrient deficit,root
+SAMN21359864,nutrient deficit,root
+SAMN21359865,nutrient deficit,root
+SAMN21359866,nutrient deficit,root
+SAMN21359867,nutrient deficit,root
+SAMN21359868,nutrient deficit,root
+SAMN21359869,nutrient deficit,root
+SAMN21359870,nutrient deficit,root
+SAMN21359871,nutrient deficit,root
+SAMN21359872,nutrient deficit,root
+SAMN21359873,nutrient deficit,root
+SAMN21359874,nutrient deficit,root
+SAMN21359875,nutrient deficit,root
+SAMN21359876,nutrient deficit,root
+SAMN21359877,nutrient deficit,root
+SAMN21359878,nutrient deficit,root
+SAMN21359879,nutrient deficit,root
+SAMN21359880,nutrient deficit,root
 SAMN21380009,,root
 SAMN21448187,,leaf
 SAMN21448188,,leaf
@@ -5527,9 +5527,9 @@ SAMN22481315,heat,
 SAMN22481316,heat,
 SAMN22481317,heat,
 SAMN22481318,heat,
-SAMN22481319,deficit,
-SAMN22481320,deficit,
-SAMN22481321,deficit,
+SAMN22481319,nutrient deficit,
+SAMN22481320,nutrient deficit,
+SAMN22481321,nutrient deficit,
 SAMN22481322,control,
 SAMN22481323,control,
 SAMN22481324,control,
@@ -5539,102 +5539,102 @@ SAMN22593243,,leaf
 SAMN22612659,,leaf
 SAMN22627653,,leaf
 SAMN22627948,,leaf
-SAMN22841246,iron,leaf
-SAMN22841247,iron,leaf
-SAMN22841248,iron,root
-SAMN22841249,iron,root
-SAMN22841250,iron,leaf
-SAMN22841251,iron,leaf
-SAMN22841252,iron,root
-SAMN22841253,iron,root
-SAMN22841254,iron,leaf
-SAMN22841255,iron,leaf
-SAMN22841256,iron,root
-SAMN22841257,iron,root
-SAMN22841258,iron,leaf
-SAMN22841259,iron,leaf
-SAMN22841260,iron,root
-SAMN22841261,iron,root
-SAMN22841262,iron,leaf
-SAMN22841263,iron,leaf
-SAMN22841264,iron,root
-SAMN22841265,iron,root
-SAMN22841266,iron,leaf
-SAMN22841267,iron,leaf
-SAMN22841268,iron,root
-SAMN22841269,iron,root
-SAMN22841270,iron,leaf
-SAMN22841271,iron,leaf
-SAMN22841272,iron,root
-SAMN22841273,iron,root
-SAMN22841274,iron,leaf
-SAMN22841275,iron,leaf
-SAMN22841276,iron,root
-SAMN22841277,iron,root
-SAMN22841278,iron,leaf
-SAMN22841279,iron,leaf
-SAMN22841280,iron,root
-SAMN22841281,iron,root
-SAMN22841282,iron,leaf
-SAMN22841283,iron,leaf
-SAMN22841284,iron,root
-SAMN22841285,iron,root
-SAMN22841286,iron,leaf
-SAMN22841287,iron,leaf
-SAMN22841288,iron,root
-SAMN22841289,iron,root
-SAMN22841290,iron,leaf
-SAMN22841291,iron,leaf
-SAMN22841292,iron,root
-SAMN22841293,iron,root
-SAMN22841294,iron,leaf
-SAMN22841295,iron,leaf
-SAMN22841296,iron,root
-SAMN22841297,iron,root
-SAMN22841298,iron,leaf
-SAMN22841299,iron,leaf
-SAMN22841300,iron,root
-SAMN22841301,iron,root
-SAMN22841302,iron,leaf
-SAMN22841303,iron,leaf
-SAMN22841304,iron,root
-SAMN22841305,iron,root
-SAMN22841306,iron,leaf
-SAMN22841307,iron,leaf
-SAMN22841308,iron,root
-SAMN22841309,iron,root
-SAMN22841310,iron,leaf
-SAMN22841311,iron,leaf
-SAMN22841312,iron,root
-SAMN22841313,iron,root
-SAMN22841314,iron,leaf
-SAMN22841315,iron,leaf
-SAMN22841316,iron,root
-SAMN22841317,iron,root
-SAMN22841318,iron,leaf
-SAMN22841319,iron,leaf
-SAMN22841320,iron,root
-SAMN22841321,iron,root
-SAMN22841322,iron,leaf
-SAMN22841323,iron,leaf
-SAMN22841324,iron,root
-SAMN22841325,iron,root
-SAMN22841326,iron,leaf
-SAMN22841327,iron,leaf
-SAMN22841328,iron,root
-SAMN22841329,iron,root
-SAMN22841330,iron,leaf
-SAMN22841331,iron,leaf
-SAMN22841332,iron,root
-SAMN22841333,iron,root
-SAMN22841334,iron,leaf
-SAMN22841335,iron,leaf
-SAMN22841336,iron,root
-SAMN22841337,iron,root
-SAMN22841338,iron,leaf
-SAMN22841339,iron,leaf
-SAMN22841340,iron,root
-SAMN22841341,iron,root
+SAMN22841246,nutrient deficit,leaf
+SAMN22841247,nutrient deficit,leaf
+SAMN22841248,nutrient deficit,root
+SAMN22841249,nutrient deficit,root
+SAMN22841250,nutrient deficit,leaf
+SAMN22841251,nutrient deficit,leaf
+SAMN22841252,nutrient deficit,root
+SAMN22841253,nutrient deficit,root
+SAMN22841254,nutrient deficit,leaf
+SAMN22841255,nutrient deficit,leaf
+SAMN22841256,nutrient deficit,root
+SAMN22841257,nutrient deficit,root
+SAMN22841258,nutrient deficit,leaf
+SAMN22841259,nutrient deficit,leaf
+SAMN22841260,nutrient deficit,root
+SAMN22841261,nutrient deficit,root
+SAMN22841262,nutrient deficit,leaf
+SAMN22841263,nutrient deficit,leaf
+SAMN22841264,nutrient deficit,root
+SAMN22841265,nutrient deficit,root
+SAMN22841266,nutrient deficit,leaf
+SAMN22841267,nutrient deficit,leaf
+SAMN22841268,nutrient deficit,root
+SAMN22841269,nutrient deficit,root
+SAMN22841270,nutrient deficit,leaf
+SAMN22841271,nutrient deficit,leaf
+SAMN22841272,nutrient deficit,root
+SAMN22841273,nutrient deficit,root
+SAMN22841274,nutrient deficit,leaf
+SAMN22841275,nutrient deficit,leaf
+SAMN22841276,nutrient deficit,root
+SAMN22841277,nutrient deficit,root
+SAMN22841278,nutrient deficit,leaf
+SAMN22841279,nutrient deficit,leaf
+SAMN22841280,nutrient deficit,root
+SAMN22841281,nutrient deficit,root
+SAMN22841282,nutrient deficit,leaf
+SAMN22841283,nutrient deficit,leaf
+SAMN22841284,nutrient deficit,root
+SAMN22841285,nutrient deficit,root
+SAMN22841286,nutrient deficit,leaf
+SAMN22841287,nutrient deficit,leaf
+SAMN22841288,nutrient deficit,root
+SAMN22841289,nutrient deficit,root
+SAMN22841290,nutrient deficit,leaf
+SAMN22841291,nutrient deficit,leaf
+SAMN22841292,nutrient deficit,root
+SAMN22841293,nutrient deficit,root
+SAMN22841294,nutrient deficit,leaf
+SAMN22841295,nutrient deficit,leaf
+SAMN22841296,nutrient deficit,root
+SAMN22841297,nutrient deficit,root
+SAMN22841298,nutrient deficit,leaf
+SAMN22841299,nutrient deficit,leaf
+SAMN22841300,nutrient deficit,root
+SAMN22841301,nutrient deficit,root
+SAMN22841302,nutrient deficit,leaf
+SAMN22841303,nutrient deficit,leaf
+SAMN22841304,nutrient deficit,root
+SAMN22841305,nutrient deficit,root
+SAMN22841306,nutrient deficit,leaf
+SAMN22841307,nutrient deficit,leaf
+SAMN22841308,nutrient deficit,root
+SAMN22841309,nutrient deficit,root
+SAMN22841310,nutrient deficit,leaf
+SAMN22841311,nutrient deficit,leaf
+SAMN22841312,nutrient deficit,root
+SAMN22841313,nutrient deficit,root
+SAMN22841314,nutrient deficit,leaf
+SAMN22841315,nutrient deficit,leaf
+SAMN22841316,nutrient deficit,root
+SAMN22841317,nutrient deficit,root
+SAMN22841318,nutrient deficit,leaf
+SAMN22841319,nutrient deficit,leaf
+SAMN22841320,nutrient deficit,root
+SAMN22841321,nutrient deficit,root
+SAMN22841322,nutrient deficit,leaf
+SAMN22841323,nutrient deficit,leaf
+SAMN22841324,nutrient deficit,root
+SAMN22841325,nutrient deficit,root
+SAMN22841326,nutrient deficit,leaf
+SAMN22841327,nutrient deficit,leaf
+SAMN22841328,nutrient deficit,root
+SAMN22841329,nutrient deficit,root
+SAMN22841330,nutrient deficit,leaf
+SAMN22841331,nutrient deficit,leaf
+SAMN22841332,nutrient deficit,root
+SAMN22841333,nutrient deficit,root
+SAMN22841334,nutrient deficit,leaf
+SAMN22841335,nutrient deficit,leaf
+SAMN22841336,nutrient deficit,root
+SAMN22841337,nutrient deficit,root
+SAMN22841338,nutrient deficit,leaf
+SAMN22841339,nutrient deficit,leaf
+SAMN22841340,nutrient deficit,root
+SAMN22841341,nutrient deficit,root
 SAMN23019675,,leaf
 SAMN23019676,,stem
 SAMN23019678,,leaf
@@ -6523,9 +6523,9 @@ SAMN30192817,,root
 SAMN30192818,,root
 SAMN30192819,,root
 SAMN30192820,,root
-SAMN30202748,nitrogen,root
-SAMN30202749,nitrogen,
-SAMN30202750,nitrogen,
+SAMN30202748,nutrient deficit,root
+SAMN30202749,nutrient deficit,
+SAMN30202750,nutrient deficit,
 SAMN30215957,,seed
 SAMN30215958,,seed
 SAMN30215959,,seed
@@ -6694,22 +6694,22 @@ SAMN30727779,,stem
 SAMN30727780,,stem
 SAMN30727781,,stem
 SAMN30727782,,stem
-SAMN30758608,iron,leaf
-SAMN30758609,iron,leaf
-SAMN30758610,iron,leaf
-SAMN30758611,iron,leaf
-SAMN30758612,iron,root
-SAMN30758613,iron,root
-SAMN30758614,iron,root
-SAMN30758615,iron,root
-SAMN30758616,iron,leaf
-SAMN30758617,iron,leaf
-SAMN30758618,iron,leaf
-SAMN30758619,iron,leaf
-SAMN30758620,iron,root
-SAMN30758621,iron,root
-SAMN30758622,iron,root
-SAMN30758623,iron,root
+SAMN30758608,nutrient deficit,leaf
+SAMN30758609,nutrient deficit,leaf
+SAMN30758610,nutrient deficit,leaf
+SAMN30758611,nutrient deficit,leaf
+SAMN30758612,nutrient deficit,root
+SAMN30758613,nutrient deficit,root
+SAMN30758614,nutrient deficit,root
+SAMN30758615,nutrient deficit,root
+SAMN30758616,nutrient deficit,leaf
+SAMN30758617,nutrient deficit,leaf
+SAMN30758618,nutrient deficit,leaf
+SAMN30758619,nutrient deficit,leaf
+SAMN30758620,nutrient deficit,root
+SAMN30758621,nutrient deficit,root
+SAMN30758622,nutrient deficit,root
+SAMN30758623,nutrient deficit,root
 SAMN30806742,,stem
 SAMN30806743,,stem
 SAMN30806744,,stem
@@ -6738,9 +6738,9 @@ SAMN30876644,heat,pod
 SAMN30876645,heat,pod
 SAMN30876646,heat,pod
 SAMN30876647,heat,pod
-SAMN30876648,deficit,pod
-SAMN30876649,deficit,pod
-SAMN30876650,deficit,pod
+SAMN30876648,nutrient deficit,pod
+SAMN30876649,nutrient deficit,pod
+SAMN30876650,nutrient deficit,pod
 SAMN30876651,control,pod
 SAMN30876652,control,pod
 SAMN30876653,control,pod
@@ -6889,9 +6889,9 @@ SAMN31760280,heat,
 SAMN31760281,heat,
 SAMN31760282,heat,
 SAMN31760283,heat,
-SAMN31760284,deficit,
-SAMN31760285,deficit,
-SAMN31760286,deficit,
+SAMN31760284,nutrient deficit,
+SAMN31760285,nutrient deficit,
+SAMN31760286,nutrient deficit,
 SAMN31760287,control,
 SAMN31760288,control,
 SAMN31760289,control,
@@ -6901,9 +6901,9 @@ SAMN31760292,heat,ovary
 SAMN31760293,heat,ovary
 SAMN31760294,heat,ovary
 SAMN31760295,heat,ovary
-SAMN31760296,deficit,ovary
-SAMN31760297,deficit,ovary
-SAMN31760298,deficit,ovary
+SAMN31760296,nutrient deficit,ovary
+SAMN31760297,nutrient deficit,ovary
+SAMN31760298,nutrient deficit,ovary
 SAMN31760299,control,ovary
 SAMN31760300,control,ovary
 SAMN31760301,control,ovary
@@ -6913,9 +6913,9 @@ SAMN31760304,heat,
 SAMN31760305,heat,
 SAMN31760306,heat,
 SAMN31760307,heat,
-SAMN31760308,deficit,
-SAMN31760309,deficit,
-SAMN31760310,deficit,
+SAMN31760308,nutrient deficit,
+SAMN31760309,nutrient deficit,
+SAMN31760310,nutrient deficit,
 SAMN31760311,control,
 SAMN31760312,control,
 SAMN31760313,control,
@@ -6925,9 +6925,9 @@ SAMN31760316,heat,
 SAMN31760317,heat,
 SAMN31760318,heat,
 SAMN31760319,heat,
-SAMN31760320,deficit,
-SAMN31760321,deficit,
-SAMN31760322,deficit,
+SAMN31760320,nutrient deficit,
+SAMN31760321,nutrient deficit,
+SAMN31760322,nutrient deficit,
 SAMN31760323,control,
 SAMN31760324,control,
 SAMN31760325,control,
@@ -7533,21 +7533,21 @@ SAMN32316682,,seed
 SAMN32509938,control,leaf
 SAMN32509939,control,leaf
 SAMN32509940,control,leaf
-SAMN32509941,temperature,leaf
-SAMN32509942,temperature,leaf
-SAMN32509943,temperature,leaf
-SAMN32509944,temperature,leaf
-SAMN32509945,temperature,leaf
-SAMN32509946,temperature,leaf
-SAMN32509947,temperature,leaf
-SAMN32509948,temperature,leaf
-SAMN32509949,temperature,leaf
-SAMN32509950,temperature,leaf
-SAMN32509951,temperature,leaf
-SAMN32509952,temperature,leaf
-SAMN32509953,temperature,leaf
-SAMN32509954,temperature,leaf
-SAMN32509955,temperature,leaf
+SAMN32509941,heat,leaf
+SAMN32509942,heat,leaf
+SAMN32509943,heat,leaf
+SAMN32509944,heat,leaf
+SAMN32509945,heat,leaf
+SAMN32509946,heat,leaf
+SAMN32509947,heat,leaf
+SAMN32509948,heat,leaf
+SAMN32509949,heat,leaf
+SAMN32509950,heat,leaf
+SAMN32509951,heat,leaf
+SAMN32509952,heat,leaf
+SAMN32509953,heat,leaf
+SAMN32509954,heat,leaf
+SAMN32509955,heat,leaf
 SAMN32637992,,root
 SAMN32735668,,embryo
 SAMN32735669,,embryo
@@ -7597,14 +7597,14 @@ SAMN32989763,,root
 SAMN32989764,,root
 SAMN32989765,,root
 SAMN32989766,,root
-SAMN33196661,temperature,radicle
-SAMN33196662,temperature,radicle
-SAMN33196663,temperature,radicle
-SAMN33196664,temperature,radicle
-SAMN33196665,temperature,radicle
-SAMN33196666,temperature,radicle
-SAMN33196667,temperature,radicle
-SAMN33196668,temperature,radicle
+SAMN33196661,heat,radicle
+SAMN33196662,heat,radicle
+SAMN33196663,heat,radicle
+SAMN33196664,heat,radicle
+SAMN33196665,heat,radicle
+SAMN33196666,heat,radicle
+SAMN33196667,heat,radicle
+SAMN33196668,heat,radicle
 SAMN33199881,stress,root
 SAMN33199882,stress,root
 SAMN33199883,stress,root
@@ -7622,9 +7622,9 @@ SAMN33295236,,stem
 SAMN33295237,,shoot
 SAMN33295238,,root
 SAMN33295239,,root
-SAMN33295241,,seed
-SAMN33295242,,seed
-SAMN33295243,,seed
+SAMN33295241,,pod
+SAMN33295242,,pod
+SAMN33295243,,pod
 SAMN33295244,,seed
 SAMN33295245,,seed
 SAMN33295246,,seed
@@ -7636,16 +7636,16 @@ SAMN33295251,,seed
 SAMN33295252,,seed
 SAMN33295253,,seed
 SAMN33295254,,seed
-SAMN33295255,,seed
-SAMN33295256,,seed
+SAMN33295255,,cotyledon
+SAMN33295256,,root
 SAMN33295257,,leaf
 SAMN33295258,,stem
 SAMN33295259,,shoot
 SAMN33295260,,root
 SAMN33295261,,root
-SAMN33295263,,seed
-SAMN33295264,,seed
-SAMN33295265,,seed
+SAMN33295263,,pod
+SAMN33295264,,pod
+SAMN33295265,,pod
 SAMN33295266,,seed
 SAMN33295267,,seed
 SAMN33295268,,seed
@@ -7657,8 +7657,8 @@ SAMN33295273,,seed
 SAMN33295274,,seed
 SAMN33295275,,seed
 SAMN33295276,,seed
-SAMN33295277,,seed
-SAMN33295278,,seed
+SAMN33295277,,cotyledon
+SAMN33295278,,root
 SAMN33330367,control,root
 SAMN33330368,control,root
 SAMN33330369,control,root
@@ -8036,93 +8036,93 @@ SAMN36379321,,root
 SAMN36379322,,root
 SAMN36379323,,root
 SAMN36379324,,root
-SAMN36630190,acid,
-SAMN36630191,acid,
-SAMN36630192,acid,
-SAMN36630193,acid,
-SAMN36630194,acid,
-SAMN36630195,acid,
-SAMN36630196,acid,
-SAMN36630197,acid,
-SAMN36630198,acid,
-SAMN36630199,deficit,
-SAMN36630200,deficit,
-SAMN36630201,deficit,
+SAMN36630190,nutrient deficit,
+SAMN36630191,nutrient deficit,
+SAMN36630192,nutrient deficit,
+SAMN36630193,nutrient deficit,
+SAMN36630194,nutrient deficit,
+SAMN36630195,nutrient deficit,
+SAMN36630196,nutrient deficit,
+SAMN36630197,nutrient deficit,
+SAMN36630198,nutrient deficit,
+SAMN36630199,nutrient deficit,
+SAMN36630200,nutrient deficit,
+SAMN36630201,nutrient deficit,
 SAMN36630202,acid,
 SAMN36630203,acid,
 SAMN36630204,acid,
-SAMN36630205,acid,
-SAMN36630206,acid,
-SAMN36630207,acid,
-SAMN36630208,deficit,
-SAMN36630209,deficit,
-SAMN36630210,deficit,
+SAMN36630205,nutrient deficit,
+SAMN36630206,nutrient deficit,
+SAMN36630207,nutrient deficit,
+SAMN36630208,nutrient deficit,
+SAMN36630209,nutrient deficit,
+SAMN36630210,nutrient deficit,
 SAMN36630211,acid,
 SAMN36630212,acid,
 SAMN36630213,acid,
-SAMN36630214,acid,
-SAMN36630215,acid,
-SAMN36630216,acid,
-SAMN36630220,deficit,
-SAMN36630221,deficit,
-SAMN36630222,deficit,
+SAMN36630214,nutrient deficit,
+SAMN36630215,nutrient deficit,
+SAMN36630216,nutrient deficit,
+SAMN36630220,nutrient deficit,
+SAMN36630221,nutrient deficit,
+SAMN36630222,nutrient deficit,
 SAMN36630223,acid,
 SAMN36630224,acid,
 SAMN36630225,acid,
-SAMN36630226,cadmium,
-SAMN36630227,cadmium,
-SAMN36630228,cadmium,
-SAMN36630229,deficit,
-SAMN36630230,deficit,
-SAMN36630231,deficit,
+SAMN36630226,nutrient deficit,
+SAMN36630227,nutrient deficit,
+SAMN36630228,nutrient deficit,
+SAMN36630229,nutrient deficit,
+SAMN36630230,nutrient deficit,
+SAMN36630231,nutrient deficit,
 SAMN36630232,acid,
 SAMN36630233,acid,
 SAMN36630234,acid,
 SAMN36630241,control,
 SAMN36630242,control,
 SAMN36630243,control,
-SAMN36630244,acid,leave
-SAMN36630245,acid,leave
-SAMN36630246,acid,leave
-SAMN36630247,acid,leave
-SAMN36630248,acid,leave
-SAMN36630249,acid,leave
-SAMN36630250,acid,leave
-SAMN36630251,acid,leave
-SAMN36630252,acid,leave
-SAMN36630253,deficit,leave
-SAMN36630254,deficit,leave
-SAMN36630255,deficit,leave
+SAMN36630244,nutrient deficit,leave
+SAMN36630245,nutrient deficit,leave
+SAMN36630246,nutrient deficit,leave
+SAMN36630247,nutrient deficit,leave
+SAMN36630248,nutrient deficit,leave
+SAMN36630249,nutrient deficit,leave
+SAMN36630250,nutrient deficit,leave
+SAMN36630251,nutrient deficit,leave
+SAMN36630252,nutrient deficit,leave
+SAMN36630253,nutrient deficit,leave
+SAMN36630254,nutrient deficit,leave
+SAMN36630255,nutrient deficit,leave
 SAMN36630256,acid,leave
 SAMN36630257,acid,leave
 SAMN36630258,acid,leave
-SAMN36630259,acid,leave
-SAMN36630260,acid,leave
-SAMN36630261,acid,leave
-SAMN36630262,deficit,leave
-SAMN36630263,deficit,leave
-SAMN36630264,deficit,leave
+SAMN36630259,nutrient deficit,leave
+SAMN36630260,nutrient deficit,leave
+SAMN36630261,nutrient deficit,leave
+SAMN36630262,nutrient deficit,leave
+SAMN36630263,nutrient deficit,leave
+SAMN36630264,nutrient deficit,leave
 SAMN36630265,acid,leave
 SAMN36630266,acid,leave
 SAMN36630267,acid,leave
-SAMN36630268,acid,leave
-SAMN36630269,acid,leave
-SAMN36630270,acid,leave
+SAMN36630268,nutrient deficit,leave
+SAMN36630269,nutrient deficit,leave
+SAMN36630270,nutrient deficit,leave
 SAMN36630271,,leave
 SAMN36630272,,leave
 SAMN36630273,,leave
-SAMN36630274,deficit,leave
-SAMN36630275,deficit,leave
-SAMN36630276,deficit,leave
+SAMN36630274,nutrient deficit,leave
+SAMN36630275,nutrient deficit,leave
+SAMN36630276,nutrient deficit,leave
 SAMN36630277,acid,leave
 SAMN36630278,acid,leave
 SAMN36630279,acid,leave
-SAMN36630280,cadmium,leave
-SAMN36630281,cadmium,leave
-SAMN36630282,cadmium,leave
-SAMN36630283,deficit,leave
-SAMN36630284,deficit,leave
-SAMN36630285,deficit,leave
+SAMN36630280,nutrient deficit,leave
+SAMN36630281,nutrient deficit,leave
+SAMN36630282,nutrient deficit,leave
+SAMN36630283,nutrient deficit,leave
+SAMN36630284,nutrient deficit,leave
+SAMN36630285,nutrient deficit,leave
 SAMN36630286,acid,leave
 SAMN36630287,acid,leave
 SAMN36630288,acid,leave
@@ -8180,60 +8180,60 @@ SAMN36735055,,leaf
 SAMN36735241,,root
 SAMN36735242,,root
 SAMN36735243,,root
-SAMN36760670,temperature,embryo
-SAMN36760671,temperature,embryo
-SAMN36760672,temperature,embryo
-SAMN36760673,temperature,embryo
-SAMN36760674,temperature,embryo
-SAMN36760675,temperature,embryo
-SAMN36760676,temperature,embryo
-SAMN36760677,temperature,embryo
-SAMN36760678,temperature,embryo
-SAMN36760679,temperature,embryo
-SAMN36760680,temperature,embryo
-SAMN36760681,temperature,embryo
-SAMN36760682,temperature,embryo
-SAMN36760683,temperature,embryo
-SAMN36760684,temperature,embryo
-SAMN36760685,temperature,embryo
-SAMN36760686,temperature,embryo
-SAMN36760687,temperature,embryo
-SAMN36760688,temperature,embryo
-SAMN36760689,temperature,embryo
-SAMN36760690,temperature,embryo
-SAMN36760691,temperature,embryo
-SAMN36760692,temperature,embryo
-SAMN36760693,temperature,embryo
-SAMN36760694,temperature,embryo
-SAMN36760695,temperature,embryo
-SAMN36760696,temperature,embryo
-SAMN36760697,temperature,embryo
-SAMN36760698,temperature,embryo
-SAMN36760699,temperature,embryo
-SAMN36760700,temperature,embryo
-SAMN36760701,temperature,embryo
-SAMN36760702,temperature,embryo
-SAMN36760703,temperature,embryo
-SAMN36760704,temperature,embryo
-SAMN36760705,temperature,embryo
-SAMN36760706,temperature,embryo
-SAMN36760707,temperature,embryo
-SAMN36760708,temperature,embryo
-SAMN36760709,temperature,embryo
-SAMN36760710,temperature,embryo
-SAMN36760711,temperature,embryo
-SAMN36760712,temperature,embryo
-SAMN36760713,temperature,embryo
-SAMN36760714,temperature,embryo
-SAMN36760715,temperature,embryo
-SAMN36760716,temperature,embryo
-SAMN36760717,temperature,embryo
-SAMN36760718,temperature,embryo
-SAMN36760719,temperature,embryo
-SAMN36760720,temperature,embryo
-SAMN36760721,temperature,embryo
-SAMN36760722,temperature,embryo
-SAMN36760723,temperature,embryo
+SAMN36760670,heat,embryo
+SAMN36760671,heat,embryo
+SAMN36760672,heat,embryo
+SAMN36760673,heat,embryo
+SAMN36760674,heat,embryo
+SAMN36760675,heat,embryo
+SAMN36760676,heat,embryo
+SAMN36760677,heat,embryo
+SAMN36760678,heat,embryo
+SAMN36760679,heat,embryo
+SAMN36760680,heat,embryo
+SAMN36760681,heat,embryo
+SAMN36760682,heat,embryo
+SAMN36760683,heat,embryo
+SAMN36760684,heat,embryo
+SAMN36760685,heat,embryo
+SAMN36760686,heat,embryo
+SAMN36760687,heat,embryo
+SAMN36760688,heat,embryo
+SAMN36760689,heat,embryo
+SAMN36760690,heat,embryo
+SAMN36760691,heat,embryo
+SAMN36760692,heat,embryo
+SAMN36760693,heat,embryo
+SAMN36760694,heat,embryo
+SAMN36760695,heat,embryo
+SAMN36760696,heat,embryo
+SAMN36760697,heat,embryo
+SAMN36760698,heat,embryo
+SAMN36760699,heat,embryo
+SAMN36760700,heat,embryo
+SAMN36760701,heat,embryo
+SAMN36760702,heat,embryo
+SAMN36760703,heat,embryo
+SAMN36760704,heat,embryo
+SAMN36760705,heat,embryo
+SAMN36760706,heat,embryo
+SAMN36760707,heat,embryo
+SAMN36760708,heat,embryo
+SAMN36760709,heat,embryo
+SAMN36760710,heat,embryo
+SAMN36760711,heat,embryo
+SAMN36760712,heat,embryo
+SAMN36760713,heat,embryo
+SAMN36760714,heat,embryo
+SAMN36760715,heat,embryo
+SAMN36760716,heat,embryo
+SAMN36760717,heat,embryo
+SAMN36760718,heat,embryo
+SAMN36760719,heat,embryo
+SAMN36760720,heat,embryo
+SAMN36760721,heat,embryo
+SAMN36760722,heat,embryo
+SAMN36760723,heat,embryo
 SAMN36780220,inoculated,root
 SAMN36780221,inoculated,root
 SAMN36780222,inoculated,root
