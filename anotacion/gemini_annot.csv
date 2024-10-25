@@ -1,4 +1,4 @@
-biosample,bioproject,tejidos,estres,tratamiento
+biosample,bioproject,tejido,estres,tratamiento
 SAMD00235524,PRJDB10183,seedling,fungus,control
 SAMD00235525,PRJDB10183,seedling,fungus,control
 SAMD00235526,PRJDB10183,seedling,fungus,control
@@ -10451,7 +10451,7 @@ SAMN33463394,PRJNA939241,leaf,,control
 SAMN33463395,PRJNA939241,leaf,,control
 SAMN33463396,PRJNA939241,leaf,,control
 SAMN33463397,PRJNA939241,leaf,,control
-SAMN33463398,PRJNA939241,leaf,,control
+SAMN33463398,PRJNA93924,leaf,,control
 SAMN33560451,PRJNA940288,root,parasite,control
 SAMN33560452,PRJNA940288,root,parasite,control
 SAMN33560453,PRJNA940288,root,parasite,control
@@ -10975,4 +10975,4 @@ SAMN36760719,PRJNA999924,seed,cold,treatment
 SAMN36760720,PRJNA999924,seed,cold,treatment
 SAMN36760721,PRJNA999924,seed,cold,treatment
 SAMN36760722,PRJNA999924,seed,cold,treatment
-SAMN36760723,PRJNA999924,seed,cold,treatment,,
+SAMN36760723,PRJNA999924,seed,cold,treatment
