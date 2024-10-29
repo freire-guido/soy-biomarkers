@@ -16,6 +16,16 @@ def plot_los_tres(X, annot, fig = None, ax = None):
         ax[1].legend()
     for estres in annot['estres'].unique():
         artists.append(ax[2].scatter(X_tsne[annot['estres'] == estres, 0], X_tsne[annot['estres'] == estres, 1], alpha=0.5, label=estres))
-        ax[2].set_title('estres')
+        ax[2].set_title('estrés')
         ax[2].legend()
     return artists
+
+def plot_estres(X, annot, legend = True):
+    tsne = manifold.TSNE()
+    X_tsne = tsne.fit_transform(X)
+    fig, ax = plt.subplots(1, 1, figsize=(6,6))
+    for estres in annot['estres'].unique():
+        artist = ax.scatter(X_tsne[annot['estres'] == estres, 0], X_tsne[annot['estres'] == estres, 1], alpha=0.5, label=estres)
+        if legend:
+            ax.legend()
+    return artist
