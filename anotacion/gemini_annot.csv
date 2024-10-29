@@ -110,22 +110,22 @@ SAMD00334686,PRJDB11892,leaf,drought,control
 SAMD00334687,PRJDB11892,leaf,drought,treatment
 SAMD00334688,PRJDB11892,leaf,drought,treatment
 SAMD00549638,PRJDB14565,leaf,,control
-SAMD00549639,PRJDB14565,Leaf,,control
+SAMD00549639,PRJDB14565,leaf,,control
 SAMD00549640,PRJDB14565,leaf,,control
 SAMD00549641,PRJDB14565,leaf,,control
-SAMD00549642,PRJDB14565,Leaf,,control
-SAMD00549643,PRJDB14565,Leaf,transgenic,control
-SAMD00549644,PRJDB14565,Leaf,transgenic,control
-SAMD00549645,PRJDB14565,Leaf,,control
-SAMD00549646,PRJDB14565,Leaf,transgenic,treatment
+SAMD00549642,PRJDB14565,leaf,,control
+SAMD00549643,PRJDB14565,leaf,transgenic,control
+SAMD00549644,PRJDB14565,leaf,transgenic,control
+SAMD00549645,PRJDB14565,leaf,,control
+SAMD00549646,PRJDB14565,leaf,transgenic,treatment
 SAMD00549647,PRJDB14565,leaf,transgenic,treatment
 SAMD00549648,PRJDB14565,leaf,transgenic,treatment
 SAMD00549649,PRJDB14565,leaf,transgenic,treatment
 SAMD00549650,PRJDB14565,leaf,transgenic,treatment
-SAMD00549651,PRJDB14565,Leaf,transgenic,treatment
-SAMD00549652,PRJDB14565,Leaf,transgenic,treatment
+SAMD00549651,PRJDB14565,leaf,transgenic,treatment
+SAMD00549652,PRJDB14565,leaf,transgenic,treatment
 SAMD00549653,PRJDB14565,leaf,transgenic,treatment
-SAMD00549654,PRJDB14565,Leaf,transgenic,control
+SAMD00549654,PRJDB14565,leaf,transgenic,control
 SAMD00549655,PRJDB14565,leaf,transgenic,control
 SAMD00549656,PRJDB14565,leaf,transgenic,control
 SAMD00549657,PRJDB14565,root,,control
@@ -769,13 +769,13 @@ SAMN37961037,PRJNA1031779,root,bacteria,control
 SAMN37973611,PRJNA1031828,leaf,transgenic,treatment
 SAMN38024265,PRJNA1033144,leaf,drought,control
 SAMN38024266,PRJNA1033144,leaf,drought,control
-SAMN38024267,PRJNA1033144,Leaf,drought,control
-SAMN38024268,PRJNA1033144,Leaf,drought,treatment
+SAMN38024267,PRJNA1033144,leaf,drought,control
+SAMN38024268,PRJNA1033144,leaf,drought,treatment
 SAMN38024269,PRJNA1033144,leaf,drought,treatment
 SAMN38024270,PRJNA1033144,leaf,drought,treatment
 SAMN38024271,PRJNA1033144,leaf,drought,control
 SAMN38024272,PRJNA1033144,leaf,drought,control
-SAMN38024273,PRJNA1033144,Leaf,drought,control
+SAMN38024273,PRJNA1033144,leaf,drought,control
 SAMN38024274,PRJNA1033144,leaf,drought,treatment
 SAMN38024275,PRJNA1033144,leaf,drought,treatment
 SAMN38024276,PRJNA1033144,leaf,drought,treatment
@@ -3042,13 +3042,13 @@ SAMN05908890,PRJNA348534,root,parasite,treatment
 SAMN05908891,PRJNA348534,root,parasite,control
 SAMN05908892,PRJNA348534,root,parasite,treatment
 SAMN05908894,PRJNA348534,root,parasite,control
-SAMN05915159,PRJNA348731,Leaf,fungus,treatment
+SAMN05915159,PRJNA348731,leaf,fungus,treatment
 SAMN05915160,PRJNA348731,stem,fungus,treatment
 SAMN05915161,PRJNA348731,root,fungus,treatment
-SAMN05915162,PRJNA348731,Leaf,fungus,control
+SAMN05915162,PRJNA348731,leaf,fungus,control
 SAMN05915163,PRJNA348731,stem,fungus,control
 SAMN05915164,PRJNA348731,root,fungus,control
-SAMN05915165,PRJNA348731,Leaf,fungus,treatment
+SAMN05915165,PRJNA348731,leaf,fungus,treatment
 SAMN05915166,PRJNA348731,stem,fungus,treatment
 SAMN05915167,PRJNA348731,root,fungus,treatment
 SAMN05915168,PRJNA348731,leaf,fungus,control
@@ -3868,7 +3868,7 @@ SAMN08903404,PRJNA449429,seed,nutrient poisoning,treatment
 SAMN08903405,PRJNA449429,seed,nutrient deficit,treatment
 SAMN08903406,PRJNA449429,seed,,treatment
 SAMN08912373,PRJNA449574,leaf,drought,control
-SAMN08912387,PRJNA449574,Leaf,drought,control
+SAMN08912387,PRJNA449574,leaf,drought,control
 SAMN08912389,PRJNA449574,leaf,drought,control
 SAMN08912391,PRJNA449574,leaf,drought,treatment
 SAMN08912392,PRJNA449574,leaf,drought,treatment
@@ -4273,7 +4273,7 @@ SAMN09690609,PRJNA481793,pod,,treatment
 SAMN09690610,PRJNA481793,pod,transgenic,control
 SAMN09690611,PRJNA481793,flower,transgenic,control
 SAMN09690612,PRJNA481793,shoot,transgenic,control
-SAMN09690613,PRJNA481793,flower shoot,transgenic,treatment
+SAMN09690613,PRJNA481793,shoot,transgenic,treatment
 SAMN09690614,PRJNA481793,pod,,control
 SAMN09690615,PRJNA481793,pod,,treatment
 SAMN09690616,PRJNA481793,flower,transgenic,control
@@ -4283,12 +4283,12 @@ SAMN09690619,PRJNA481793,pod,transgenic,treatment
 SAMN09690620,PRJNA481793,pod,transgenic,treatment
 SAMN09690621,PRJNA481793,flower,,control
 SAMN09690622,PRJNA481793,shoot,transgenic,control
-SAMN09690623,PRJNA481793,flower shoot,transgenic,treatment
+SAMN09690623,PRJNA481793,shoot,transgenic,treatment
 SAMN09690624,PRJNA481793,pod,transgenic,control
 SAMN09690625,PRJNA481793,pod,,control
 SAMN09690626,PRJNA481793,flower,transgenic,control
 SAMN09690627,PRJNA481793,shoot,transgenic,control
-SAMN09690628,PRJNA481793,flower shoot,transgenic,control
+SAMN09690628,PRJNA481793,shoot,transgenic,control
 SAMN09715574,PRJNA482870,shoot,,treatment
 SAMN09715575,PRJNA482870,shoot,,treatment
 SAMN09715576,PRJNA482870,shoot,,treatment
@@ -5932,7 +5932,7 @@ SAMN14409621,PRJNA613577,root,,control
 SAMN14409622,PRJNA613577,root,,treatment
 SAMN14409623,PRJNA613577,root,,treatment
 SAMN14474680,PRJNA615913,leaf,drought,treatment
-SAMN14474681,PRJNA615913,Leaf,drought,control
+SAMN14474681,PRJNA615913,leaf,drought,control
 SAMN14474682,PRJNA615913,leaf,drought,treatment
 SAMN14474683,PRJNA615913,leaf,drought,treatment
 SAMN14474684,PRJNA615913,root,drought,control
@@ -7005,16 +7005,16 @@ SAMN16725454,PRJNA675850,seed,senescense,control
 SAMN16725455,PRJNA675850,seed,senescense,control
 SAMN16776172,PRJNA677883,seed,fungus,control
 SAMN16776173,PRJNA677883,seed,fungus,treatment
-SAMN16782946,PRJNA677945,Flower shoot,heat,treatment
-SAMN16784670,PRJNA677945,Flower shoot,heat,treatment
-SAMN16785328,PRJNA677945,Flower shoot,heat,control
-SAMN16785329,PRJNA677945,Flower shoot,heat,treatment
-SAMN16786536,PRJNA677945,Flower,heat,control
-SAMN16786537,PRJNA677945,Flower shoot,heat,treatment
-SAMN16807200,PRJNA677945,Flower,heat,control
-SAMN16807201,PRJNA677945,Flower shoot,heat,treatment
-SAMN16825487,PRJNA677945,Flower shoot,heat,treatment
-SAMN16825488,PRJNA677945,Flower shoot,heat,treatment
+SAMN16782946,PRJNA677945,shoot,heat,treatment
+SAMN16784670,PRJNA677945,shoot,heat,treatment
+SAMN16785328,PRJNA677945,shoot,heat,control
+SAMN16785329,PRJNA677945,shoot,heat,treatment
+SAMN16786536,PRJNA677945,flower,heat,control
+SAMN16786537,PRJNA677945,shoot,heat,treatment
+SAMN16807200,PRJNA677945,flower,heat,control
+SAMN16807201,PRJNA677945,shoot,heat,treatment
+SAMN16825487,PRJNA677945,shoot,heat,treatment
+SAMN16825488,PRJNA677945,shoot,heat,treatment
 SAMN16826251,PRJNA679227,pod,,control
 SAMN16826262,PRJNA679227,pod,,control
 SAMN16826263,PRJNA679227,pod,transgenic,treatment
@@ -7835,8 +7835,8 @@ SAMN19473471,PRJNA734138,seedling,nutrient poisoning,treatment
 SAMN19473472,PRJNA734138,seedling,acid,treatment
 SAMN19473473,PRJNA734138,seedling,nutrient poisoning,treatment
 SAMN19473474,PRJNA734138,seedling,nutrient poisoning,treatment
-SAMN19588559,PRJNA735557,flower shoot,,control
-SAMN19588560,PRJNA735557,flower shoot,,control
+SAMN19588559,PRJNA735557,shoot,,control
+SAMN19588560,PRJNA735557,shoot,,control
 SAMN19588561,PRJNA735557,pod,,control
 SAMN19588562,PRJNA735557,pod,,control
 SAMN19882149,PRJNA741583,shoot,,control
@@ -8091,15 +8091,15 @@ SAMN22371200,PRJNA772253,seed,transgenic,control
 SAMN22481313,PRJNA773388,shoots,heat,treatment
 SAMN22481314,PRJNA773388,flower,heat,treatment
 SAMN22481315,PRJNA773388,flower,heat,treatment
-SAMN22481316,PRJNA773388,Buds,heat,treatment
-SAMN22481317,PRJNA773388,Buds,heat,treatment
-SAMN22481318,PRJNA773388,Buds,heat,treatment
-SAMN22481319,PRJNA773388,Buds,drought,treatment
-SAMN22481320,PRJNA773388,Buds,drought,treatment
-SAMN22481321,PRJNA773388,Buds,drought,treatment
-SAMN22481322,PRJNA773388,Buds,heat,control
-SAMN22481323,PRJNA773388,Buds,drought,control
-SAMN22481324,PRJNA773388,Buds,heat,control
+SAMN22481316,PRJNA773388,shoot,heat,treatment
+SAMN22481317,PRJNA773388,shoot,heat,treatment
+SAMN22481318,PRJNA773388,shoot,heat,treatment
+SAMN22481319,PRJNA773388,shoot,drought,treatment
+SAMN22481320,PRJNA773388,shoot,drought,treatment
+SAMN22481321,PRJNA773388,shoot,drought,treatment
+SAMN22481322,PRJNA773388,shoot,heat,control
+SAMN22481323,PRJNA773388,shoot,drought,control
+SAMN22481324,PRJNA773388,shoot,heat,control
 SAMN22583752,PRJNA774476,leaf,transgenic,control
 SAMN22591248,PRJNA774476,leaf,transgenic,control
 SAMN22593243,PRJNA774476,leaf,transgenic,control
@@ -8318,27 +8318,27 @@ SAMN24108174,PRJNA789350,leaf,,control
 SAMN24108175,PRJNA789350,leaf,,control
 SAMN24108176,PRJNA789350,leaf,,treatment
 SAMN24108177,PRJNA789350,leaf,,control
-SAMN24108379,PRJNA789389,Leaf,fungus,treatment
+SAMN24108379,PRJNA789389,leaf,fungus,treatment
 SAMN24108380,PRJNA789389,leaf,fungus,treatment
 SAMN24108381,PRJNA789389,leaf,fungus,treatment
-SAMN24108382,PRJNA789389,Leaf,fungus,control
-SAMN24108383,PRJNA789389,Leaf,fungus,control
+SAMN24108382,PRJNA789389,leaf,fungus,control
+SAMN24108383,PRJNA789389,leaf,fungus,control
 SAMN24108384,PRJNA789389,leaf,fungus,control
-SAMN24108385,PRJNA789389,Leaf,fungus,treatment
-SAMN24108386,PRJNA789389,Leaf,fungus,treatment
-SAMN24108387,PRJNA789389,Leaf,fungus,treatment
+SAMN24108385,PRJNA789389,leaf,fungus,treatment
+SAMN24108386,PRJNA789389,leaf,fungus,treatment
+SAMN24108387,PRJNA789389,leaf,fungus,treatment
 SAMN24108388,PRJNA789389,leaf,fungus,control
 SAMN24108389,PRJNA789389,leaf,fungus,control
 SAMN24108390,PRJNA789389,leaf,fungus,control
 SAMN24108391,PRJNA789389,leaf,fungus,treatment
 SAMN24108392,PRJNA789389,leaf,fungus,treatment
-SAMN24108393,PRJNA789389,Leaf,fungus,treatment
-SAMN24108394,PRJNA789389,Leaf,fungus,control
+SAMN24108393,PRJNA789389,leaf,fungus,treatment
+SAMN24108394,PRJNA789389,leaf,fungus,control
 SAMN24108395,PRJNA789389,leaf,fungus,control
 SAMN24108396,PRJNA789389,leaf,fungus,control
 SAMN24108397,PRJNA789389,leaf,fungus,treatment
 SAMN24108398,PRJNA789389,leaf,fungus,treatment
-SAMN24108399,PRJNA789389,Leaf,fungus,treatment
+SAMN24108399,PRJNA789389,leaf,fungus,treatment
 SAMN24108400,PRJNA789389,leaf,fungus,control
 SAMN24108401,PRJNA789389,leaf,fungus,control
 SAMN24108402,PRJNA789389,leaf,fungus,control
@@ -8383,7 +8383,7 @@ SAMN24451511,PRJNA793711,root,,control
 SAMN24451512,PRJNA793711,root,,control
 SAMN24451513,PRJNA793711,root,,control
 SAMN24912029,PRJNA796759,leaf,virus,treatment
-SAMN24912030,PRJNA796759,Leaf,virus,treatment
+SAMN24912030,PRJNA796759,leaf,virus,treatment
 SAMN24912031,PRJNA796759,leaf,virus,treatment
 SAMN24923223,PRJNA796822,seed,mineral poisoning,treatment
 SAMN24923224,PRJNA796822,seed,mineral poisoning,treatment
@@ -8499,10 +8499,10 @@ SAMN02147106,PRJNA80173,leaf,fungus,treatment
 SAMN02147117,PRJNA80173,leaf,fungus,treatment
 SAMN25601479,PRJNA802889,leaf,transgenic,control
 SAMN25601480,PRJNA802889,leaf,transgenic,control
-SAMN25601481,PRJNA802889,Leaf,transgenic,control
+SAMN25601481,PRJNA802889,leaf,transgenic,control
 SAMN25601482,PRJNA802889,leaf,transgenic,treatment
 SAMN25601483,PRJNA802889,leaf,transgenic,treatment
-SAMN25601484,PRJNA802889,Leaf,,treatment
+SAMN25601484,PRJNA802889,leaf,,treatment
 SAMN25638647,PRJNA803218,root,parasite,control
 SAMN25638648,PRJNA803218,root,parasite,control
 SAMN25638649,PRJNA803218,root,fungus,control
@@ -9315,13 +9315,13 @@ SAMN30722359,PRJNA877709,Anther,heat,treatment
 SAMN30722360,PRJNA877709,Anther,heat,treatment
 SAMN30722361,PRJNA877709,Anther,heat,treatment
 SAMN30722362,PRJNA877709,flower,heat,treatment
-SAMN30722363,PRJNA877710,Leaf,heat,control
-SAMN30722364,PRJNA877710,Leaf,heat,treatment
+SAMN30722363,PRJNA877710,leaf,heat,control
+SAMN30722364,PRJNA877710,leaf,heat,treatment
 SAMN30722365,PRJNA877710,leaf,heat,treatment
-SAMN30722366,PRJNA877710,Leaf,heat,control
+SAMN30722366,PRJNA877710,leaf,heat,control
 SAMN30722367,PRJNA877710,leaf,heat,treatment
-SAMN30722368,PRJNA877710,Leaf,heat,treatment
-SAMN30722369,PRJNA877710,Leaf,heat,treatment
+SAMN30722368,PRJNA877710,leaf,heat,treatment
+SAMN30722369,PRJNA877710,leaf,heat,treatment
 SAMN30722370,PRJNA877710,leaf,heat,treatment
 SAMN30722371,PRJNA877710,leaf,heat,treatment
 SAMN30722372,PRJNA877710,leaf,heat,control
@@ -9448,12 +9448,12 @@ SAMN31100647,PRJNA885623,root,parasite,treatment
 SAMN31100648,PRJNA885623,root,parasite,treatment
 SAMN31100649,PRJNA885623,root,parasite,treatment
 SAMN31100650,PRJNA885623,root,parasite,treatment
-SAMN31170766,PRJNA887481,Flower shoot,transgenic,treatment
-SAMN31170767,PRJNA887481,Flower shoot,transgenic,treatment
-SAMN31170768,PRJNA887481,Flower shoot,transgenic,control
-SAMN31170769,PRJNA887481,Flower shoot,transgenic,treatment
-SAMN31170770,PRJNA887481,Flower shoot,transgenic,treatment
-SAMN31170771,PRJNA887481,Flower shoot,transgenic,treatment
+SAMN31170766,PRJNA887481,shoot,transgenic,treatment
+SAMN31170767,PRJNA887481,shoot,transgenic,treatment
+SAMN31170768,PRJNA887481,shoot,transgenic,control
+SAMN31170769,PRJNA887481,shoot,transgenic,treatment
+SAMN31170770,PRJNA887481,shoot,transgenic,treatment
+SAMN31170771,PRJNA887481,shoot,transgenic,treatment
 SAMN31202777,PRJNA887919,hypocotyl,nutrient poisoning,treatment
 SAMN31202778,PRJNA887919,hypocotyl,nutrient poisoning,treatment
 SAMN31202779,PRJNA887919,hypocotyl,nutrient poisoning,treatment
@@ -9565,8 +9565,8 @@ SAMN31693429,PRJNA900526,flower,transgenic,treatment
 SAMN31693430,PRJNA900526,flower,transgenic,treatment
 SAMN31693431,PRJNA900526,flower,transgenic,treatment
 SAMN31698424,PRJNA900685,flower,transgenic,treatment
-SAMN31698425,PRJNA900685,Flower,transgenic,treatment
-SAMN31698426,PRJNA900685,Flower,transgenic,control
+SAMN31698425,PRJNA900685,flower,transgenic,treatment
+SAMN31698426,PRJNA900685,flower,transgenic,control
 SAMN31709634,PRJNA901219,shoot,,control
 SAMN31760278,PRJNA902404,flower,drought,treatment
 SAMN31760279,PRJNA902404,seed,drought,treatment
@@ -10367,14 +10367,14 @@ SAMN33295278,PRJNA934964,root,,control
 SAMN33310580,PRJNA935333,seed,heat,treatment
 SAMN33310581,PRJNA935333,seed,heat,treatment
 SAMN33310582,PRJNA935333,seed,heat,treatment
-SAMN33310583,PRJNA935333,Flower shoot,heat,treatment
-SAMN33310584,PRJNA935333,Flower shoot,heat,treatment
-SAMN33310585,PRJNA935333,Flower,heat,treatment
+SAMN33310583,PRJNA935333,shoot,heat,treatment
+SAMN33310584,PRJNA935333,shoot,heat,treatment
+SAMN33310585,PRJNA935333,flower,heat,treatment
 SAMN33310586,PRJNA935333,seed,heat,treatment
-SAMN33310587,PRJNA935333,Flower shoot,heat,treatment
-SAMN33310588,PRJNA935333,Flower shoot,heat,treatment
-SAMN33310589,PRJNA935333,Flower shoot,heat,treatment
-SAMN33310590,PRJNA935333,Flower shoot,heat,treatment
+SAMN33310587,PRJNA935333,shoot,heat,treatment
+SAMN33310588,PRJNA935333,shoot,heat,treatment
+SAMN33310589,PRJNA935333,shoot,heat,treatment
+SAMN33310590,PRJNA935333,shoot,heat,treatment
 SAMN33310591,PRJNA935333,seed,heat,treatment
 SAMN33330367,PRJNA935962,root,,control
 SAMN33330368,PRJNA935962,root,,control
@@ -10573,12 +10573,12 @@ SAMN34272523,PRJNA957910,leaf,,control
 SAMN34272524,PRJNA957910,leaf,virus,control
 SAMN34272525,PRJNA957910,leaf,virus,control
 SAMN34272526,PRJNA957910,leaf,virus,control
-SAMN34272527,PRJNA957910,Leaf,virus,control
+SAMN34272527,PRJNA957910,leaf,virus,control
 SAMN34272528,PRJNA957910,leaf,virus,control
 SAMN34272529,PRJNA957910,leaf,virus,treatment
 SAMN34272530,PRJNA957910,leaf,virus,treatment
 SAMN34272531,PRJNA957910,leaf,virus,treatment
-SAMN34272532,PRJNA957910,Leaf,virus,treatment
+SAMN34272532,PRJNA957910,leaf,virus,treatment
 SAMN34272533,PRJNA957910,leaf,virus,treatment
 SAMN34272534,PRJNA957910,leaf,virus,treatment
 SAMN34510061,PRJNA965934,root,,control
